@@ -1,0 +1,33 @@
+{
+  "name": "com.slvr.ui-motion-kit",
+  "version": "0.10.6",
+  "displayName": "SLVR UI Motion Kit",
+  "description": "Reusable DOTween-backed motion, feedback and accessibility policies for Unity UGUI.",
+  "unity": "6000.3",
+  "documentationUrl": "Documentation~/installation.md",
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
+  "keywords": [
+    "ui",
+    "ugui",
+    "motion",
+    "dotween",
+    "accessibility"
+  ],
+  "author": {
+    "name": "Silver Fox Lab"
+  },
+  "samples": [
+    {
+      "displayName": "UI Motion Gallery",
+      "description": "Generated placeholder prefabs and a standalone gallery scene with runtime quality and accessibility controls.",
+      "path": "Samples~/UI Motion Gallery"
+    },
+    {
+      "displayName": "Spine Integration",
+      "description": "Optional focal-art adapter. Import only when spine-unity is installed.",
+      "path": "Samples~/Spine Integration"
+    }
+  ]
+}

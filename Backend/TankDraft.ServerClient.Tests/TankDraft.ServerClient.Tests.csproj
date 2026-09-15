@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <IsPackable>false</IsPackable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageReference Include="xunit" Version="2.9.3" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="../TankDraft.Game.Core/TankDraft.Game.Core.csproj" />
+    <ProjectReference Include="../TankDraft.Server.Match/TankDraft.Server.Match.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/FusionGameplay/FusionResumeStorage.cs" Link="FusionResumeStorage.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/FusionGameplay/FusionSessionContext.cs" Link="FusionSessionContext.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Match/ServerClient/Core/ServerClientProtocol.cs" Link="ServerClientProtocol.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Match/ServerClient/Transport/MatchCredentials.cs" Link="MatchCredentials.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Match/ServerClient/Transport/PlayFabMatchCredentials.cs" Link="PlayFabMatchCredentials.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Match/ServerClient/Transport/LocalTlsSocket.cs" Link="LocalTlsSocket.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Match/ServerClient/Transport/ServerClientTransport.cs" Link="ServerClientTransport.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Match/ServerClient/Queue/RemoteSessionContext.cs" Link="RemoteSessionContext.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Match/ServerClient/Queue/RemoteQueueClient.cs" Link="RemoteQueueClient.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Match/Presentation/MatchRoundPresentation.cs" Link="MatchRoundPresentation.cs" />
+    <Compile Include="../../Assets/TankDraft/Runtime/Meta/Application/ProfileService.cs" Link="ProfileService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/FusionGameplay/FusionProgressionClient.cs" Link="FusionProgressionClient.cs" />
+  </ItemGroup>
+<ItemGroup><Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/Fusion/FusionRequestChannel.cs" Link="FusionRequestChannel.cs" /><Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/Fusion/FusionQaProtocol.cs" Link="FusionQaProtocol.cs" /><Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/Fusion/FusionQaClient.cs" Link="FusionQaClient.cs" /><Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/Fusion/FusionAuthorityClient.cs" Link="FusionAuthorityClient.cs" /><Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/FusionGameplay/FusionMatchCredentials.cs" Link="FusionMatchCredentials.cs" /><Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/FusionGameplay/FusionMatchSocket.cs" Link="FusionMatchSocket.cs" /><Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/FusionGameplay/FusionProfileClient.cs" Link="FusionProfileClient.cs" /></ItemGroup><ItemGroup><Compile Include="../../Assets/TankDraft/Runtime/Match/ServerClient/Core/BattlePresentationClock.cs" Link="BattlePresentationClock.cs" /><Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/FusionGameplay/FusionQueueClient.cs" Link="FusionQueueClient.cs" /></ItemGroup><ItemGroup><Compile Include="../../Assets/TankDraft/Runtime/Infrastructure/Fusion/FusionSnapshotInbox.cs" Link="FusionSnapshotInbox.cs" /></ItemGroup></Project>

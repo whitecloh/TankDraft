@@ -1,0 +1,23 @@
+{
+  "name": "SLVR.UIMotion.Editor",
+  "rootNamespace": "SLVR.UIMotion.Editor",
+  "references": [
+    "SLVR.UIMotion.Runtime",
+    "Unity.ugui",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "DOTween.dll",
+    "DOTweenEditor.dll"
+  ],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net10.0": {
+      "tankdraft.game.core": {
+        "type": "Project"
+      },
+      "tankdraft.server.security": {
+        "type": "Project"
+      }
+    }
+  }
+}

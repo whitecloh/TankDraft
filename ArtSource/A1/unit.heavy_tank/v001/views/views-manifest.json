@@ -1,0 +1,72 @@
+{
+  "source": "turnaround.png",
+  "method": "image_gen + mechanical crop",
+  "views": [
+    {
+      "view": "front",
+      "file": "front.png",
+      "crop": [
+        8,
+        8,
+        414,
+        623
+      ],
+      "sha256": "a087b566bffd3630126768de5c242fdaf6c7a476b586bf19f891590b1749beef"
+    },
+    {
+      "view": "left",
+      "file": "left.png",
+      "crop": [
+        426,
+        8,
+        832,
+        623
+      ],
+      "sha256": "c0ead27eb84ae2d40cebc07d22474ca572953744f9eeba4f1e73852ece0985d8"
+    },
+    {
+      "view": "rear",
+      "file": "rear.png",
+      "crop": [
+        844,
+        8,
+        1250,
+        623
+      ],
+      "sha256": "2c4ae076d7b6f87e07f4fe55197c31a387509ecb742ba3a48938e7bc3f0c3c8e"
+    },
+    {
+      "view": "right",
+      "file": "right.png",
+      "crop": [
+        8,
+        635,
+        414,
+        1250
+      ],
+      "sha256": "0e735fcfe27ed073b21a2d6c1766b1b7590f579ffabb52650669cb7b51ab553b"
+    },
+    {
+      "view": "top",
+      "file": "top.png",
+      "crop": [
+        426,
+        635,
+        832,
+        1250
+      ],
+      "sha256": "ed4ad0a105ac40c557e19c1cd79554da34f646d5e5dcbe329cc140b6e6128b56"
+    },
+    {
+      "view": "three-quarter",
+      "file": "three-quarter.png",
+      "crop": [
+        844,
+        635,
+        1250,
+        1250
+      ],
+      "sha256": "7f8d35c3e1bb440e2107d05b3d4e46658f760448ff09ef1a9a9cc0d75f6fbdb3"
+    }
+  ]
+}

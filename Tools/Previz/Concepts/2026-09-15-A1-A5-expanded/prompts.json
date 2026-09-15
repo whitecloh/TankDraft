@@ -1,0 +1,1231 @@
+{
+  "screens": [
+    {
+      "id": "shop-packs",
+      "name": "Магазин — наборы",
+      "brief": "Shop packs page. Header МАГАЗИН, balance strip, tabs НАБОРЫ / САМОЦВЕТЫ / МОНЕТЫ. Feature one large illustrated supply crate with a small row of its possible tank parts, then 4 distinct smaller pack cards in a 2x2 grid. Each has a clean rarity stripe and a button ПОДРОБНЕЕ. Bottom standard navigation.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Shop packs page. Header МАГАЗИН, balance strip, tabs НАБОРЫ / САМОЦВЕТЫ / МОНЕТЫ. Feature one large illustrated supply crate with a small row of its possible tank parts, then 4 distinct smaller pack cards in a 2x2 grid. Each has a clean rarity stripe and a button ПОДРОБНЕЕ. Bottom standard navigation."
+    },
+    {
+      "id": "pack-details",
+      "name": "Содержимое набора",
+      "brief": "Pack detail screen: close/back at top, title НАБОР. Large open supply crate in upper quarter, middle possible contents as 6 illustrated item tiles: tank blueprint pieces, coins, mastery chip, order card. Section МОЖНО ПОЛУЧИТЬ. Clear probability/info icon and large action ОТКРЫТЬ. No real currency pricing or invented drop probability values.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Pack detail screen: close/back at top, title НАБОР. Large open supply crate in upper quarter, middle possible contents as 6 illustrated item tiles: tank blueprint pieces, coins, mastery chip, order card. Section МОЖНО ПОЛУЧИТЬ. Clear probability/info icon and large action ОТКРЫТЬ. No real currency pricing or invented drop probability values."
+    },
+    {
+      "id": "shop-gems",
+      "name": "Магазин — самоцветы",
+      "brief": "Shop gems tab selected САМОЦВЕТЫ, 6 progressively larger blue gem bundles in a 2x3 catalog grid with understated offer panels. Header МАГАЗИН, balance bar. Each price/action shows КУПИТЬ without real currency numbers. Bottom nav.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Shop gems tab selected САМОЦВЕТЫ, 6 progressively larger blue gem bundles in a 2x3 catalog grid with understated offer panels. Header МАГАЗИН, balance bar. Each price/action shows КУПИТЬ without real currency numbers. Bottom nav."
+    },
+    {
+      "id": "shop-coins",
+      "name": "Магазин — монеты и чипы",
+      "brief": "Shop coins and chips tab selected МОНЕТЫ. Two upper wide offers for stacks of gold coins, section ЧИПЫ МАСТЕРСТВА and 3 small mastery token offers below. Exchange gem pictograms, action ОБМЕНЯТЬ; no real currency values. Calm catalog, bottom nav.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Shop coins and chips tab selected МОНЕТЫ. Two upper wide offers for stacks of gold coins, section ЧИПЫ МАСТЕРСТВА and 3 small mastery token offers below. Exchange gem pictograms, action ОБМЕНЯТЬ; no real currency values. Calm catalog, bottom nav."
+    },
+    {
+      "id": "collection-units",
+      "name": "Коллекция — техника",
+      "brief": "Army collection screen title АРМИЯ. Exactly FOUR equipped vehicle cards across top, 3 smaller order slots underneath, tabs ТЕХНИКА / ПРИКАЗЫ, filter strip ВСЕ. Main area 3 columns x 3 rows of diverse clearly drawn vehicles: heavy tank, long PT, mortar, stealth wedge, rocket rack, repair crane, drone carrier, engineer, chemical tanker. Some tiny lock badges, subtle varied rarity lines. Each tile simple short label and tiny progress bar. Bottom nav with АРМИЯ selected.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Army collection screen title АРМИЯ. Exactly FOUR equipped vehicle cards across top, 3 smaller order slots underneath, tabs ТЕХНИКА / ПРИКАЗЫ, filter strip ВСЕ. Main area 3 columns x 3 rows of diverse clearly drawn vehicles: heavy tank, long PT, mortar, stealth wedge, rocket rack, repair crane, drone carrier, engineer, chemical tanker. Some tiny lock badges, subtle varied rarity lines. Each tile simple short label and tiny progress bar. Bottom nav with АРМИЯ selected."
+    },
+    {
+      "id": "collection-spells",
+      "name": "Коллекция — приказы",
+      "brief": "Orders collection title ПРИКАЗЫ. Exactly3 equipped tactical icon slots at top. Tabs ТЕХНИКА / ПРИКАЗЫ. Main grid3x3 bold cohesive illustrated icons: artillery strike, shield, wrench, reinforcements, smoke, lightning, missiles, rally flag, drone. Tiny progress/lock badges; no new rules text. Bottom nav АРМИЯ selected.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Orders collection title ПРИКАЗЫ. Exactly3 equipped tactical icon slots at top. Tabs ТЕХНИКА / ПРИКАЗЫ. Main grid3x3 bold cohesive illustrated icons: artillery strike, shield, wrench, reinforcements, smoke, lightning, missiles, rally flag, drone. Tiny progress/lock badges; no new rules text. Bottom nav АРМИЯ selected."
+    },
+    {
+      "id": "unit-stats",
+      "name": "Техника — характеристики",
+      "brief": "Vehicle detail ТЯЖЁЛЫЙ ТАНК. Back button and balance strip. One large hero heavy tank in upper third, a restrained rarity mark. Tabs ХАРАКТЕРИСТИКИ / МАСТЕРСТВО. Three clean stat rows ЗДОРОВЬЕ, УРОН, СКОРОСТЬ with pictograms and short bar gauges. Blueprint progress strip, clear buttons В АРМИЮ and УЛУЧШИТЬ at bottom. Same heavy design as reference, no invented ability descriptions.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Vehicle detail ТЯЖЁЛЫЙ ТАНК. Back button and balance strip. One large hero heavy tank in upper third, a restrained rarity mark. Tabs ХАРАКТЕРИСТИКИ / МАСТЕРСТВО. Three clean stat rows ЗДОРОВЬЕ, УРОН, СКОРОСТЬ with pictograms and short bar gauges. Blueprint progress strip, clear buttons В АРМИЮ and УЛУЧШИТЬ at bottom. Same heavy design as reference, no invented ability descriptions."
+    },
+    {
+      "id": "unit-locked",
+      "name": "Техника — закрыта",
+      "brief": "Locked vehicle detail title ОСАДНЫЙ ТАНК. Large intriguing armored machine silhouette with central lock, partially visible ivory shapes, back arrow, balance. Short label ОТКРОЕТСЯ ПОЗЖЕ, arena badge and a simple progress line; no invented unlock numbers. Tabs characteristics/mastery gray. Main button К КОЛЛЕКЦИИ, disabled equip. Maintain interesting finished illustrated vehicle.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Locked vehicle detail title ОСАДНЫЙ ТАНК. Large intriguing armored machine silhouette with central lock, partially visible ivory shapes, back arrow, balance. Short label ОТКРОЕТСЯ ПОЗЖЕ, arena badge and a simple progress line; no invented unlock numbers. Tabs characteristics/mastery gray. Main button К КОЛЛЕКЦИИ, disabled equip. Maintain interesting finished illustrated vehicle."
+    },
+    {
+      "id": "unit-mastery",
+      "name": "Техника — мастерство",
+      "brief": "Heavy tank mastery screen МАСТЕРСТВО. Compact tank preview top, tabs ХАРАКТЕРИСТИКИ / МАСТЕРСТВО with latter active. Vertical clean progression track with 5 milestone nodes and actual illustrated rewards at right: badge, blueprint, mastery chip, alternate paint stripe, crate. One current glowing yellow checkpoint and future locked nodes. Bottom progress and button К ТЕХНИКЕ. No specific invented gameplay bonuses.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Heavy tank mastery screen МАСТЕРСТВО. Compact tank preview top, tabs ХАРАКТЕРИСТИКИ / МАСТЕРСТВО with latter active. Vertical clean progression track with 5 milestone nodes and actual illustrated rewards at right: badge, blueprint, mastery chip, alternate paint stripe, crate. One current glowing yellow checkpoint and future locked nodes. Bottom progress and button К ТЕХНИКЕ. No specific invented gameplay bonuses."
+    },
+    {
+      "id": "spell-stats",
+      "name": "Приказ — характеристики",
+      "brief": "Tactical order detail РЕМОНТ. Large illustrated wrench/repair-signal order emblem, small supporting vignette with repair machine and heavy tank, readable concise heading ПОДДЕРЖКА АРМИИ. 3 neutral info rows represented by icon+bar, blueprint fragments strip, button В ПРИКАЗЫ. No invented numerical ability values.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Tactical order detail РЕМОНТ. Large illustrated wrench/repair-signal order emblem, small supporting vignette with repair machine and heavy tank, readable concise heading ПОДДЕРЖКА АРМИИ. 3 neutral info rows represented by icon+bar, blueprint fragments strip, button В ПРИКАЗЫ. No invented numerical ability values."
+    },
+    {
+      "id": "spell-locked",
+      "name": "Приказ — закрыт",
+      "brief": "Locked tactical order detail ПОДКРЕПЛЕНИЕ. Big ivory illustrated flag and three tank silhouettes partly hidden by padlock. Back arrow, restrained unlock-progress badge, label ОТКРОЕТСЯ ПОЗЖЕ. Disabled slot button and active К КОЛЛЕКЦИИ. No invented unlock level.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Locked tactical order detail ПОДКРЕПЛЕНИЕ. Big ivory illustrated flag and three tank silhouettes partly hidden by padlock. Back arrow, restrained unlock-progress badge, label ОТКРОЕТСЯ ПОЗЖЕ. Disabled slot button and active К КОЛЛЕКЦИИ. No invented unlock level."
+    },
+    {
+      "id": "commander",
+      "name": "Командир — путь наград",
+      "brief": "Commander reward journey ПУТЬ КОМАНДИРА. Rank badge and level progress at top. Vertical clear path with 6 readable checkpoint rows, each with big level marker, a compact illustrated reward crate/coins/order-slot token, one highlighted current claimable ЗАБРАТЬ, future padlocks. Tank-themed ink iconography, no portraits of real people. Bottom nav.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Commander reward journey ПУТЬ КОМАНДИРА. Rank badge and level progress at top. Vertical clear path with 6 readable checkpoint rows, each with big level marker, a compact illustrated reward crate/coins/order-slot token, one highlighted current claimable ЗАБРАТЬ, future padlocks. Tank-themed ink iconography, no portraits of real people. Bottom nav."
+    },
+    {
+      "id": "profile",
+      "name": "Профиль",
+      "brief": "Player profile ПРОФИЛЬ. Top avatar helmet, name ИГРОК_01 and rank badge, banner preview, pencil edit icon. Compact rows ПОБЕДЫ / МАТЧИ / РАНГ with simple sample numerals. Section АРМИЯ shows exactly4 tank cards. Section ПОСЛЕДНИЕ МАТЧИ 3 rows with victory/defeat symbols. Button НАСТРОИТЬ, back arrow. No social chat/invite feature.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Player profile ПРОФИЛЬ. Top avatar helmet, name ИГРОК_01 and rank badge, banner preview, pencil edit icon. Compact rows ПОБЕДЫ / МАТЧИ / РАНГ with simple sample numerals. Section АРМИЯ shows exactly4 tank cards. Section ПОСЛЕДНИЕ МАТЧИ 3 rows with victory/defeat symbols. Button НАСТРОИТЬ, back arrow. No social chat/invite feature."
+    },
+    {
+      "id": "customize",
+      "name": "Оформление профиля",
+      "brief": "Profile customization ОФОРМЛЕНИЕ. Large banner preview upper quarter with helmet avatar and ИГРОК_01, navy/coral/yellow ink heraldry. Tabs ЗНАЧКИ / БАННЕРЫ; grid3x3 of distinct tasteful military graphic banners, one selected yellow check, a few locks. Button ПРИМЕНИТЬ. No cute faces or photo portraits.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Profile customization ОФОРМЛЕНИЕ. Large banner preview upper quarter with helmet avatar and ИГРОК_01, navy/coral/yellow ink heraldry. Tabs ЗНАЧКИ / БАННЕРЫ; grid3x3 of distinct tasteful military graphic banners, one selected yellow check, a few locks. Button ПРИМЕНИТЬ. No cute faces or photo portraits."
+    },
+    {
+      "id": "draft",
+      "name": "Драфт — выбор из трёх",
+      "brief": "Active tactical draft screen. HUD four heart positions each side, РАУНД 3 and a clear 5с timer. Top-down tall empty pale/dark battlefield with enemy ranks near top and friendly ranks near bottom. In center/lower-middle EXACTLY THREE LARGE draft cards arranged horizontally: add heavy tanks, improve long-barrel PT, add rocket artillery, strong readable vehicle art and simple +2 / UP / +1 badges. Heading ВЫБЕРИТЕ УСИЛЕНИЕ, one yellow selection border. Bottom small passive roster of4. No joystick, no gold battle shop, no shooting effects in this preparation state.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Active tactical draft screen. HUD four heart positions each side, РАУНД 3 and a clear 5с timer. Top-down tall empty pale/dark battlefield with enemy ranks near top and friendly ranks near bottom. In center/lower-middle EXACTLY THREE LARGE draft cards arranged horizontally: add heavy tanks, improve long-barrel PT, add rocket artillery, strong readable vehicle art and simple +2 / UP / +1 badges. Heading ВЫБЕРИТЕ УСИЛЕНИЕ, one yellow selection border. Bottom small passive roster of4. No joystick, no gold battle shop, no shooting effects in this preparation state."
+    },
+    {
+      "id": "draft-comeback",
+      "name": "Драфт — камбэк",
+      "brief": "Comeback extra choice screen after loss. HUD four heart positions per side, friendly2filled2empty enemy3filled1empty. Header ДОПОЛНИТЕЛЬНЫЙ ВЫБОР with small5с. Same army battlefield composition as draft, exactly3 offer cards in foreground, one illustrated heavy reinforcement, one shield order, one extra artillery. Warm yellow edge and comeback arrow emblem; label КАМБЭК. No guaranteed comeback win promise, no new costs.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Comeback extra choice screen after loss. HUD four heart positions per side, friendly2filled2empty enemy3filled1empty. Header ДОПОЛНИТЕЛЬНЫЙ ВЫБОР with small5с. Same army battlefield composition as draft, exactly3 offer cards in foreground, one illustrated heavy reinforcement, one shield order, one extra artillery. Warm yellow edge and comeback arrow emblem; label КАМБЭК. No guaranteed comeback win promise, no new costs."
+    },
+    {
+      "id": "round-result",
+      "name": "Итог раунда",
+      "brief": "Round result overlay on top-down battle arena. Friendly survivor tanks remain visible lower half, defeated enemy upper area has a few small wreck marks. Compact central panel РАУНД ВЫИГРАН with clearly depicted 4heart slots per side and one enemy heart fading away, next strip СЛЕДУЮЩИЙ РАУНД. Roster4 at bottom. This is round outcome, not final match rewards, no coins or victory chest.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Round result overlay on top-down battle arena. Friendly survivor tanks remain visible lower half, defeated enemy upper area has a few small wreck marks. Compact central panel РАУНД ВЫИГРАН with clearly depicted 4heart slots per side and one enemy heart fading away, next strip СЛЕДУЮЩИЙ РАУНД. Roster4 at bottom. This is round outcome, not final match rewards, no coins or victory chest."
+    },
+    {
+      "id": "victory",
+      "name": "Победа в матче",
+      "brief": "Final match victory screen ПОБЕДА. Large original military laurel/tank badge and score4:2. Showcase surviving squad of4varied tanks. Section МАСТЕРСТВО with4unit portrait cards each an XP progress strip. Compact rank progress and button ПОЛУЧИТЬ НАГРАДЫ. Small МЕНЮ secondary. No battle control icons.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Final match victory screen ПОБЕДА. Large original military laurel/tank badge and score4:2. Showcase surviving squad of4varied tanks. Section МАСТЕРСТВО with4unit portrait cards each an XP progress strip. Compact rank progress and button ПОЛУЧИТЬ НАГРАДЫ. Small МЕНЮ secondary. No battle control icons."
+    },
+    {
+      "id": "rewards",
+      "name": "Награды",
+      "brief": "Reward reveal screen НАГРАДЫ. Large open supply crate with restrained yellow light above. 4clear obtained-item cards in center: heavy tank blueprint pieces, PT blueprint pieces, coins, mastery chips. Quantity examples x5 x3 x20 x1, not storefront. Two reward page indicator dots, main ЗАБРАТЬ, small ПРОДОЛЖИТЬ. Readable quiet background.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Reward reveal screen НАГРАДЫ. Large open supply crate with restrained yellow light above. 4clear obtained-item cards in center: heavy tank blueprint pieces, PT blueprint pieces, coins, mastery chips. Quantity examples x5 x3 x20 x1, not storefront. Two reward page indicator dots, main ЗАБРАТЬ, small ПРОДОЛЖИТЬ. Readable quiet background."
+    },
+    {
+      "id": "rating",
+      "name": "Рейтинг — закрытый режим",
+      "brief": "Ranked mode locked screen РЕЙТИНГ. Large attractive rank shield under padlock, short label РЕЖИМ ПОКА ЗАКРЫТ, small progress line. Secondary ПРАВИЛА and main НА ГЛАВНУЮ. A calm tank banner backdrop, no populated fake leaderboard, no invented unlock levels or promises.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Ranked mode locked screen РЕЙТИНГ. Large attractive rank shield under padlock, short label РЕЖИМ ПОКА ЗАКРЫТ, small progress line. Secondary ПРАВИЛА and main НА ГЛАВНУЮ. A calm tank banner backdrop, no populated fake leaderboard, no invented unlock levels or promises."
+    },
+    {
+      "id": "rating-rules",
+      "name": "Правила рейтинга",
+      "brief": "Rules information screen ПРАВИЛА РЕЙТИНГА. Back arrow, large rank emblem, 3spacious illustrated explanation rows with headings МАТЧИ, РАНГ, НАГРАДЫ, each with brief single-line placeholder dash or tiny clear pictograms, not fabricated detailed rules. A strip of4increasing rank badges. Main ПОНЯТНО. Clean information design, no long generated paragraphs.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Rules information screen ПРАВИЛА РЕЙТИНГА. Back arrow, large rank emblem, 3spacious illustrated explanation rows with headings МАТЧИ, РАНГ, НАГРАДЫ, each with brief single-line placeholder dash or tiny clear pictograms, not fabricated detailed rules. A strip of4increasing rank badges. Main ПОНЯТНО. Clean information design, no long generated paragraphs."
+    },
+    {
+      "id": "pass",
+      "name": "Пропуск",
+      "brief": "Season pass screen ПРОПУСК. Original bold military badge top. Two parallel clear reward tracks labeled БЕСПЛАТНО and ПРЕМИУМ, 4visible stages, aligned crate/coin/blueprint reward icons, claimed checks and future locks, one yellow current stage band. Season progress strip with sample level3. Button ПОДРОБНЕЕ, no actual purchase prices or invented benefits. Bottom nav.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Season pass screen ПРОПУСК. Original bold military badge top. Two parallel clear reward tracks labeled БЕСПЛАТНО and ПРЕМИУМ, 4visible stages, aligned crate/coin/blueprint reward icons, claimed checks and future locks, one yellow current stage band. Season progress strip with sample level3. Button ПОДРОБНЕЕ, no actual purchase prices or invented benefits. Bottom nav."
+    },
+    {
+      "id": "matchmaking",
+      "name": "Поиск соперника",
+      "brief": "Matchmaking overlay on main menu. Center well-designed card ПОИСК СОПЕРНИКА, own helmet-avatar banner on left and simple unknown opponent silhouette on right separated by VS, small spinner. Four selected tank miniatures below. Clear ОТМЕНА action. Main menu subtly dimmed behind. No fake confirmed opponent identity, no ping readout or networking internals.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Matchmaking overlay on main menu. Center well-designed card ПОИСК СОПЕРНИКА, own helmet-avatar banner on left and simple unknown opponent silhouette on right separated by VS, small spinner. Four selected tank miniatures below. Clear ОТМЕНА action. Main menu subtly dimmed behind. No fake confirmed opponent identity, no ping readout or networking internals."
+    },
+    {
+      "id": "defeat",
+      "name": "Поражение в матче",
+      "brief": "Final match defeat screen ПОРАЖЕНИЕ. Reserved broken-chevron badge and score2:4, small squad of4tanks shown quietly, no destroyed corpses or violent imagery. Four mastery cards with modest progress below, main ЕЩЁ МАТЧ and secondary МЕНЮ. Strong readable calm composition, not humiliating.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Final match defeat screen ПОРАЖЕНИЕ. Reserved broken-chevron badge and score2:4, small squad of4tanks shown quietly, no destroyed corpses or violent imagery. Four mastery cards with modest progress below, main ЕЩЁ МАТЧ and secondary МЕНЮ. Strong readable calm composition, not humiliating."
+    },
+    {
+      "id": "settings",
+      "name": "Настройки",
+      "brief": "Settings screen НАСТРОЙКИ as centered tall panel over dimmed garage. Four large legible rows: МУЗЫКА and ЗВУК with sliders, ВИБРАЦИЯ with toggle, ЯЗЫК showing РУССКИЙ. Footer concise ВЕРСИЯ 0.1, big ГОТОВО. Cog and back icon. Simple cohesive icons, no unnecessary settings, readable accessible spacing.",
+      "type": "screen-pair",
+      "prompt": "Generate a SQUARE image, overall 1:1 canvas, about 2048x2048. Two full portrait game screenshots SIDE BY SIDE with a thin straight vertical divider EXACTLY at center: LEFT is A1 LIGHT INK style from reference image1, RIGHT is A5 DARK GRAPHIC style from reference image2. Each screen occupies exactly half canvas and has practical 1:2 mobile proportions. These are two versions of the SAME screen with identical information hierarchy. Do NOT place the menu and battle from reference side by side; create ONLY the requested NEW screen in each style.\nReference1 is STYLE/VEHICLE/UI language source A1 (near-white empty paper, near-black lively thick outlines, simple white tanks, yellow accents, sparse decor). Reference2 is STYLE/VEHICLE/UI language source A5 (deep charcoal, ivory tank and panel shapes, heavy ink separation, blue/red team markings, restrained yellow accents). Preserve these selected exact directions. No realistic rendering, no polished glossy 3D, no unrelated aesthetic. Keep all four core vehicle silhouettes consistent with references.\nOriginal tank army auto-battler TANKDRAFT, four unique roster types, three tactical order slots, auto combat with opposing multi-unit armies in rows. Russian interface. All short requested labels spelled clearly. No marketing slogans. Full safe-area-aware finished screenshots, not poster or wireframe. No smartphone frame, not photographed device. No text below image.\nREQUESTED SCREEN: Settings screen НАСТРОЙКИ as centered tall panel over dimmed garage. Four large legible rows: МУЗЫКА and ЗВУК with sliders, ВИБРАЦИЯ with toggle, ЯЗЫК showing РУССКИЙ. Footer concise ВЕРСИЯ 0.1, big ГОТОВО. Cog and back icon. Simple cohesive icons, no unnecessary settings, readable accessible spacing."
+    }
+  ],
+  "sprites": [
+    {
+      "id": "A1-sprites-1",
+      "style": "A1",
+      "sheet": 1,
+      "type": "sprite-sheet",
+      "units": [
+        {
+          "id": "unit.mines",
+          "name": "Мины",
+          "status": "authored",
+          "description": "A pair of squat circular contact mines, small pressure plates, blue team tab; no barrel.",
+          "index": 1,
+          "sheet": 1,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "id": "unit.heavy_tank",
+          "name": "Тяжёлый танк",
+          "status": "authored",
+          "description": "Very broad rounded armored tracked hull, massive simple short-cannon turret, three big dark wheel notches, original reference heavy tank.",
+          "index": 2,
+          "sheet": 1,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "id": "unit.tank_destroyer",
+          "name": "ПТ-САУ",
+          "status": "authored",
+          "description": "Low long wedge hull, extremely long straight cannon, low casemate, slender rear antenna.",
+          "index": 3,
+          "sheet": 1,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "id": "unit.field_artillery",
+          "name": "Полевая артиллерия",
+          "status": "authored",
+          "description": "Short broad tracked howitzer chassis, medium thick elevated cannon in open rear gun cradle, compact shield at breech.",
+          "index": 4,
+          "sheet": 1,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "id": "unit.anti_tank_obstacle",
+          "name": "Противотанковое заграждение",
+          "status": "authored",
+          "description": "One chunky X-shaped steel anti-tank hedgehog, blue identification tape, unmistakably static obstacle not vehicle.",
+          "index": 5,
+          "sheet": 1,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "id": "unit.medium_tank",
+          "name": "Средний танк",
+          "status": "authored",
+          "description": "Medium compact box hull, conventional round central turret with mid-length cannon, smaller than heavy.",
+          "index": 6,
+          "sheet": 1,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "unit.light_raider",
+          "name": "Лёгкий рейдер",
+          "status": "authored",
+          "description": "Tiny fast four-wheeled armored buggy with a single short nose cannon, sloped front, visible big wheels.",
+          "index": 7,
+          "sheet": 1,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "unit.mobile_mortar",
+          "name": "Самоходный миномёт",
+          "status": "authored",
+          "description": "Tiny tracked hull with large almost vertical open mortar tube and a little rear ammo bin, no horizontal long cannon.",
+          "index": 8,
+          "sheet": 1,
+          "row": 1,
+          "column": 3
+        },
+        {
+          "id": "unit.rocket_artillery",
+          "name": "РСЗО",
+          "status": "authored",
+          "description": "Short tracked carrier with big inclined rectangular rack of six rocket tubes, chunky clean box silhouette.",
+          "index": 9,
+          "sheet": 1,
+          "row": 2,
+          "column": 0
+        },
+        {
+          "id": "unit.stealth_vehicle",
+          "name": "Стелс-танк",
+          "status": "authored",
+          "description": "Very flat angular triangular armored wedge, shrouded tracks, tiny flush barrel and blue angular slash.",
+          "index": 10,
+          "sheet": 1,
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "unit.repair_vehicle",
+          "name": "Ремонтная машина",
+          "status": "authored",
+          "description": "White compact tracked support vehicle with large simple articulated repair crane ending in wrench claw and blue repair cross.",
+          "index": 11,
+          "sheet": 1,
+          "row": 2,
+          "column": 2
+        },
+        {
+          "id": "unit.drone_carrier",
+          "name": "Носитель дронов",
+          "status": "authored",
+          "description": "Tracked carrier with open launch tray containing two small winged drones, compact radar antenna, no gun turret.",
+          "index": 12,
+          "sheet": 1,
+          "row": 2,
+          "column": 3
+        }
+      ],
+      "prompt": "Generate a professional SPRITE SHEET for the original tank army game TANKDRAFT in the approved A1 art style from the supplied reference image. Reference is visual language source, NOT an edit target; isolate the VEHICLES, not menu UI.\nCANVAS: landscape 4:3, ideally2048x1536, TRANSPARENT PNG BACKGROUND with real alpha, no checkerboard painted into the image. EXACT rigid grid of FOUR columns and THREE rows of equal cells. No title, no text, no labels, no borders, no floor or scene props. Each sprite is centered at the exact center of its cell, uses at most75%cell width/height, whole object visible with generous margins, no object crosses grid boundaries. Empty unassigned cells remain fully transparent.\nSTYLE: Minimalist 2D ink cartoon matching the bright reference: clean white/ivory solid hull fills, thick lively near-black outer contour, very few interior strokes, flat pale gray secondary faces, tiny blue friendly team marks. No painted texture, no photorealism.\nCONSISTENCY: all vehicles shown in the SAME elevated three-quarter view, front pointing toward LOWER LEFT of screen, modest top view around40degrees elevation, fixed lighting upper left, no perspective distortion. One distinct object per cell. Tanks compact squat exaggerated silhouettes; aircraft and obstacles retain their actual class. No people or faces, no realistic rivets/microtexture, no explosions, no effects, no HPbars, no interface. Each turret/barrel physically connected. Do not substitute duplicates for described roles. These are single static sprites, NOT multiple animation frames of the same tank.\nCELL CONTENTS, ordered LEFT TO RIGHT then TOP TO BOTTOM:\nRow1 Col1: A pair of squat circular contact mines, small pressure plates, blue team tab; no barrel.\nRow1 Col2: Very broad rounded armored tracked hull, massive simple short-cannon turret, three big dark wheel notches, original reference heavy tank.\nRow1 Col3: Low long wedge hull, extremely long straight cannon, low casemate, slender rear antenna.\nRow1 Col4: Short broad tracked howitzer chassis, medium thick elevated cannon in open rear gun cradle, compact shield at breech.\nRow2 Col1: One chunky X-shaped steel anti-tank hedgehog, blue identification tape, unmistakably static obstacle not vehicle.\nRow2 Col2: Medium compact box hull, conventional round central turret with mid-length cannon, smaller than heavy.\nRow2 Col3: Tiny fast four-wheeled armored buggy with a single short nose cannon, sloped front, visible big wheels.\nRow2 Col4: Tiny tracked hull with large almost vertical open mortar tube and a little rear ammo bin, no horizontal long cannon.\nRow3 Col1: Short tracked carrier with big inclined rectangular rack of six rocket tubes, chunky clean box silhouette.\nRow3 Col2: Very flat angular triangular armored wedge, shrouded tracks, tiny flush barrel and blue angular slash.\nRow3 Col3: White compact tracked support vehicle with large simple articulated repair crane ending in wrench claw and blue repair cross.\nRow3 Col4: Tracked carrier with open launch tray containing two small winged drones, compact radar antenna, no gun turret.\n\nExactly 12 distinct objects, no extras."
+    },
+    {
+      "id": "A1-sprites-2",
+      "style": "A1",
+      "sheet": 2,
+      "type": "sprite-sheet",
+      "units": [
+        {
+          "id": "unit.engineer_vehicle",
+          "name": "Инженерная машина",
+          "status": "authored",
+          "description": "Boxy engineering half-track with short construction arm and one folded deployable sentry gun stowed on rear. Distinct from large repair crane.",
+          "index": 13,
+          "sheet": 2,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "id": "unit.demolition_vehicle",
+          "name": "Подрывная машина",
+          "status": "authored",
+          "description": "Small tracked ram vehicle with a big cuboid explosive charge strapped onto nose, angular blast pictogram, no flames.",
+          "index": 14,
+          "sheet": 2,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "id": "unit.chemical_demolition",
+          "name": "Химическая подрывная машина",
+          "status": "authored",
+          "description": "Low tracked vehicle with one enormous round chemical tank drum and two short pipes, tiny muted green hazard marking.",
+          "index": 15,
+          "sheet": 2,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "id": "unit.toxin_destroyer",
+          "name": "Токсичная ПТ",
+          "status": "authored",
+          "description": "Low PT hull with long thin injector cannon and two small cylindrical chemical canisters attached to rear turret.",
+          "index": 16,
+          "sheet": 2,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "id": "unit.drone_scout",
+          "name": "Разведывательный дрон",
+          "status": "child",
+          "description": "One small compact flying quadrotor drone with four distinct rotors, armored center and small lens; no ground shadow or stand.",
+          "index": 17,
+          "sheet": 2,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "id": "unit.sentry_turret",
+          "name": "Призываемая турель",
+          "status": "child",
+          "description": "Small static tripod sentry turret with a single short gun barrel, compact shield and square base, no tank tracks.",
+          "index": 18,
+          "sheet": 2,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "concept.fast_light_destroyer",
+          "name": "Скоростная лёгкая ПТ",
+          "status": "proposed",
+          "description": "Ultra-narrow lightweight tracked hull with long twin slim barrels side by side and very small turret, fast arrow-like silhouette.",
+          "index": 19,
+          "sheet": 2,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "concept.swarm_microvehicle",
+          "name": "Роевая микромашина",
+          "status": "proposed",
+          "description": "One very tiny rounded two-wheel scout pod with a front bumper and tiny stub cannon, simple pebble shape; ONE object not a swarm group.",
+          "index": 20,
+          "sheet": 2,
+          "row": 1,
+          "column": 3
+        },
+        {
+          "id": "concept.siege_transformer",
+          "name": "Осадный трансформер",
+          "status": "proposed",
+          "description": "Large towering tracked siege vehicle, two stacked armor sections, folded stabilizers and broad crushing shield arms, no humanoid face.",
+          "index": 21,
+          "sheet": 2,
+          "row": 2,
+          "column": 0
+        },
+        {
+          "id": "concept.burrow_drone",
+          "name": "Подземный дрон",
+          "status": "proposed",
+          "description": "Low tracked drilling vehicle with large spiral cone drill at nose, armored rounded shell and two stubby side stabilizers.",
+          "index": 22,
+          "sheet": 2,
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "concept.radial_suppressor",
+          "name": "Круговое подавление",
+          "status": "proposed",
+          "description": "Round puck-like tracked machine with large spinning-disc turret and four short barrels pointing different directions, top circle clearly readable.",
+          "index": 23,
+          "sheet": 2,
+          "row": 2,
+          "column": 2
+        },
+        {
+          "id": "concept.active_protection",
+          "name": "Машина активной защиты",
+          "status": "proposed",
+          "description": "Broad support chassis with upright shield-shaped radar panel and small dome emitter, no cannon, blue shield mark.",
+          "index": 24,
+          "sheet": 2,
+          "row": 2,
+          "column": 3
+        }
+      ],
+      "prompt": "Generate a professional SPRITE SHEET for the original tank army game TANKDRAFT in the approved A1 art style from the supplied reference image. Reference is visual language source, NOT an edit target; isolate the VEHICLES, not menu UI.\nCANVAS: landscape 4:3, ideally2048x1536, TRANSPARENT PNG BACKGROUND with real alpha, no checkerboard painted into the image. EXACT rigid grid of FOUR columns and THREE rows of equal cells. No title, no text, no labels, no borders, no floor or scene props. Each sprite is centered at the exact center of its cell, uses at most75%cell width/height, whole object visible with generous margins, no object crosses grid boundaries. Empty unassigned cells remain fully transparent.\nSTYLE: Minimalist 2D ink cartoon matching the bright reference: clean white/ivory solid hull fills, thick lively near-black outer contour, very few interior strokes, flat pale gray secondary faces, tiny blue friendly team marks. No painted texture, no photorealism.\nCONSISTENCY: all vehicles shown in the SAME elevated three-quarter view, front pointing toward LOWER LEFT of screen, modest top view around40degrees elevation, fixed lighting upper left, no perspective distortion. One distinct object per cell. Tanks compact squat exaggerated silhouettes; aircraft and obstacles retain their actual class. No people or faces, no realistic rivets/microtexture, no explosions, no effects, no HPbars, no interface. Each turret/barrel physically connected. Do not substitute duplicates for described roles. These are single static sprites, NOT multiple animation frames of the same tank.\nCELL CONTENTS, ordered LEFT TO RIGHT then TOP TO BOTTOM:\nRow1 Col1: Boxy engineering half-track with short construction arm and one folded deployable sentry gun stowed on rear. Distinct from large repair crane.\nRow1 Col2: Small tracked ram vehicle with a big cuboid explosive charge strapped onto nose, angular blast pictogram, no flames.\nRow1 Col3: Low tracked vehicle with one enormous round chemical tank drum and two short pipes, tiny muted green hazard marking.\nRow1 Col4: Low PT hull with long thin injector cannon and two small cylindrical chemical canisters attached to rear turret.\nRow2 Col1: One small compact flying quadrotor drone with four distinct rotors, armored center and small lens; no ground shadow or stand.\nRow2 Col2: Small static tripod sentry turret with a single short gun barrel, compact shield and square base, no tank tracks.\nRow2 Col3: Ultra-narrow lightweight tracked hull with long twin slim barrels side by side and very small turret, fast arrow-like silhouette.\nRow2 Col4: One very tiny rounded two-wheel scout pod with a front bumper and tiny stub cannon, simple pebble shape; ONE object not a swarm group.\nRow3 Col1: Large towering tracked siege vehicle, two stacked armor sections, folded stabilizers and broad crushing shield arms, no humanoid face.\nRow3 Col2: Low tracked drilling vehicle with large spiral cone drill at nose, armored rounded shell and two stubby side stabilizers.\nRow3 Col3: Round puck-like tracked machine with large spinning-disc turret and four short barrels pointing different directions, top circle clearly readable.\nRow3 Col4: Broad support chassis with upright shield-shaped radar panel and small dome emitter, no cannon, blue shield mark.\n\nExactly 12 distinct objects, no extras."
+    },
+    {
+      "id": "A1-sprites-3",
+      "style": "A1",
+      "sheet": 3,
+      "type": "sprite-sheet",
+      "units": [
+        {
+          "id": "concept.salvage_hijacker",
+          "name": "Машина захвата",
+          "status": "proposed",
+          "description": "Compact tracked recovery vehicle with forward twin clamp jaws and rear cable spool, one sensor mast, no big repair crane.",
+          "index": 25,
+          "sheet": 3,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "id": "concept.lifesteal_assault",
+          "name": "Штурмовой рекуператор",
+          "status": "proposed",
+          "description": "Short heavily armored melee ram tank with two nose power couplers, thick looped side hoses and small battery block on rear.",
+          "index": 26,
+          "sheet": 3,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "id": "concept.reactive_armor",
+          "name": "Танк с активной бронёй",
+          "status": "proposed",
+          "description": "Heavy tank behind enormous upright rectangular frontal armor plate with three big spaced armor segments, small turret peeks above.",
+          "index": 27,
+          "sheet": 3,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "id": "concept.magazine_destroyer",
+          "name": "Магазинная ПТ",
+          "status": "proposed",
+          "description": "Sleek tracked assault gun with visible six-chamber cylindrical ammunition drum beside medium straight barrel. Not six barrels.",
+          "index": 28,
+          "sheet": 3,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "id": "concept.mobile_grenadier",
+          "name": "Мобильный гранатомёт",
+          "status": "proposed",
+          "description": "Four-wheeled light vehicle with short fat arcing grenade-launcher tube and two large spherical ammunition containers on rear.",
+          "index": 29,
+          "sheet": 3,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "id": "concept.electronic_warfare",
+          "name": "Машина РЭБ",
+          "status": "proposed",
+          "description": "Long support chassis with a large tilting satellite dish and two antenna masts, no conventional cannon.",
+          "index": 30,
+          "sheet": 3,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "concept.assault_helicopter",
+          "name": "Штурмовой вертолёт",
+          "status": "proposed",
+          "description": "One stylized compact attack helicopter with clearly separated rotor blades, short tail boom and twin tiny rocket pods, no pilot face.",
+          "index": 31,
+          "sheet": 3,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "concept.stealth_scout",
+          "name": "Стелс-разведчик",
+          "status": "proposed",
+          "description": "Narrow four-wheel enclosed scout car with sharp hood, small periscope and side cloaking plates, no giant tank turret.",
+          "index": 32,
+          "sheet": 3,
+          "row": 1,
+          "column": 3
+        },
+        {
+          "id": "concept.ground_drone_factory",
+          "name": "Мобильный завод дронов",
+          "status": "proposed",
+          "description": "Wide tall tracked box factory with an open rear ramp and one tiny crawler visible in launch bay, compact assembly gantry on roof.",
+          "index": 33,
+          "sheet": 3,
+          "row": 2,
+          "column": 0
+        }
+      ],
+      "prompt": "Generate a professional SPRITE SHEET for the original tank army game TANKDRAFT in the approved A1 art style from the supplied reference image. Reference is visual language source, NOT an edit target; isolate the VEHICLES, not menu UI.\nCANVAS: landscape 4:3, ideally2048x1536, TRANSPARENT PNG BACKGROUND with real alpha, no checkerboard painted into the image. EXACT rigid grid of FOUR columns and THREE rows of equal cells. No title, no text, no labels, no borders, no floor or scene props. Each sprite is centered at the exact center of its cell, uses at most75%cell width/height, whole object visible with generous margins, no object crosses grid boundaries. Empty unassigned cells remain fully transparent.\nSTYLE: Minimalist 2D ink cartoon matching the bright reference: clean white/ivory solid hull fills, thick lively near-black outer contour, very few interior strokes, flat pale gray secondary faces, tiny blue friendly team marks. No painted texture, no photorealism.\nCONSISTENCY: all vehicles shown in the SAME elevated three-quarter view, front pointing toward LOWER LEFT of screen, modest top view around40degrees elevation, fixed lighting upper left, no perspective distortion. One distinct object per cell. Tanks compact squat exaggerated silhouettes; aircraft and obstacles retain their actual class. No people or faces, no realistic rivets/microtexture, no explosions, no effects, no HPbars, no interface. Each turret/barrel physically connected. Do not substitute duplicates for described roles. These are single static sprites, NOT multiple animation frames of the same tank.\nCELL CONTENTS, ordered LEFT TO RIGHT then TOP TO BOTTOM:\nRow1 Col1: Compact tracked recovery vehicle with forward twin clamp jaws and rear cable spool, one sensor mast, no big repair crane.\nRow1 Col2: Short heavily armored melee ram tank with two nose power couplers, thick looped side hoses and small battery block on rear.\nRow1 Col3: Heavy tank behind enormous upright rectangular frontal armor plate with three big spaced armor segments, small turret peeks above.\nRow1 Col4: Sleek tracked assault gun with visible six-chamber cylindrical ammunition drum beside medium straight barrel. Not six barrels.\nRow2 Col1: Four-wheeled light vehicle with short fat arcing grenade-launcher tube and two large spherical ammunition containers on rear.\nRow2 Col2: Long support chassis with a large tilting satellite dish and two antenna masts, no conventional cannon.\nRow2 Col3: One stylized compact attack helicopter with clearly separated rotor blades, short tail boom and twin tiny rocket pods, no pilot face.\nRow2 Col4: Narrow four-wheel enclosed scout car with sharp hood, small periscope and side cloaking plates, no giant tank turret.\nRow3 Col1: Wide tall tracked box factory with an open rear ramp and one tiny crawler visible in launch bay, compact assembly gantry on roof.\nRow3 Col2, Row3 Col3, Row3 Col4 are EMPTY TRANSPARENT.\nExactly 9 distinct objects, no extras."
+    },
+    {
+      "id": "A5-sprites-1",
+      "style": "A5",
+      "sheet": 1,
+      "type": "sprite-sheet",
+      "units": [
+        {
+          "id": "unit.mines",
+          "name": "Мины",
+          "status": "authored",
+          "description": "A pair of squat circular contact mines, small pressure plates, blue team tab; no barrel.",
+          "index": 1,
+          "sheet": 1,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "id": "unit.heavy_tank",
+          "name": "Тяжёлый танк",
+          "status": "authored",
+          "description": "Very broad rounded armored tracked hull, massive simple short-cannon turret, three big dark wheel notches, original reference heavy tank.",
+          "index": 2,
+          "sheet": 1,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "id": "unit.tank_destroyer",
+          "name": "ПТ-САУ",
+          "status": "authored",
+          "description": "Low long wedge hull, extremely long straight cannon, low casemate, slender rear antenna.",
+          "index": 3,
+          "sheet": 1,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "id": "unit.field_artillery",
+          "name": "Полевая артиллерия",
+          "status": "authored",
+          "description": "Short broad tracked howitzer chassis, medium thick elevated cannon in open rear gun cradle, compact shield at breech.",
+          "index": 4,
+          "sheet": 1,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "id": "unit.anti_tank_obstacle",
+          "name": "Противотанковое заграждение",
+          "status": "authored",
+          "description": "One chunky X-shaped steel anti-tank hedgehog, blue identification tape, unmistakably static obstacle not vehicle.",
+          "index": 5,
+          "sheet": 1,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "id": "unit.medium_tank",
+          "name": "Средний танк",
+          "status": "authored",
+          "description": "Medium compact box hull, conventional round central turret with mid-length cannon, smaller than heavy.",
+          "index": 6,
+          "sheet": 1,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "unit.light_raider",
+          "name": "Лёгкий рейдер",
+          "status": "authored",
+          "description": "Tiny fast four-wheeled armored buggy with a single short nose cannon, sloped front, visible big wheels.",
+          "index": 7,
+          "sheet": 1,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "unit.mobile_mortar",
+          "name": "Самоходный миномёт",
+          "status": "authored",
+          "description": "Tiny tracked hull with large almost vertical open mortar tube and a little rear ammo bin, no horizontal long cannon.",
+          "index": 8,
+          "sheet": 1,
+          "row": 1,
+          "column": 3
+        },
+        {
+          "id": "unit.rocket_artillery",
+          "name": "РСЗО",
+          "status": "authored",
+          "description": "Short tracked carrier with big inclined rectangular rack of six rocket tubes, chunky clean box silhouette.",
+          "index": 9,
+          "sheet": 1,
+          "row": 2,
+          "column": 0
+        },
+        {
+          "id": "unit.stealth_vehicle",
+          "name": "Стелс-танк",
+          "status": "authored",
+          "description": "Very flat angular triangular armored wedge, shrouded tracks, tiny flush barrel and blue angular slash.",
+          "index": 10,
+          "sheet": 1,
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "unit.repair_vehicle",
+          "name": "Ремонтная машина",
+          "status": "authored",
+          "description": "White compact tracked support vehicle with large simple articulated repair crane ending in wrench claw and blue repair cross.",
+          "index": 11,
+          "sheet": 1,
+          "row": 2,
+          "column": 2
+        },
+        {
+          "id": "unit.drone_carrier",
+          "name": "Носитель дронов",
+          "status": "authored",
+          "description": "Tracked carrier with open launch tray containing two small winged drones, compact radar antenna, no gun turret.",
+          "index": 12,
+          "sheet": 1,
+          "row": 2,
+          "column": 3
+        }
+      ],
+      "prompt": "Generate a professional SPRITE SHEET for the original tank army game TANKDRAFT in the approved A5 art style from the supplied reference image. Reference is visual language source, NOT an edit target; isolate the VEHICLES, not menu UI.\nCANVAS: landscape 4:3, ideally2048x1536, TRANSPARENT PNG BACKGROUND with real alpha, no checkerboard painted into the image. EXACT rigid grid of FOUR columns and THREE rows of equal cells. No title, no text, no labels, no borders, no floor or scene props. Each sprite is centered at the exact center of its cell, uses at most75%cell width/height, whole object visible with generous margins, no object crosses grid boundaries. Empty unassigned cells remain fully transparent.\nSTYLE: Bold 2D ink poster illustration matching the dark reference: warm ivory solid armor masses, thick black track masses and dark separation lines, sparse small dark distressed marks, blue team tabs. The sprites must work on a dark charcoal game arena, BUT KEEP THIS SPRITE SHEET BACKGROUND TRANSPARENT. No black background rectangle.\nCONSISTENCY: all vehicles shown in the SAME elevated three-quarter view, front pointing toward LOWER LEFT of screen, modest top view around40degrees elevation, fixed lighting upper left, no perspective distortion. One distinct object per cell. Tanks compact squat exaggerated silhouettes; aircraft and obstacles retain their actual class. No people or faces, no realistic rivets/microtexture, no explosions, no effects, no HPbars, no interface. Each turret/barrel physically connected. Do not substitute duplicates for described roles. These are single static sprites, NOT multiple animation frames of the same tank.\nCELL CONTENTS, ordered LEFT TO RIGHT then TOP TO BOTTOM:\nRow1 Col1: A pair of squat circular contact mines, small pressure plates, blue team tab; no barrel.\nRow1 Col2: Very broad rounded armored tracked hull, massive simple short-cannon turret, three big dark wheel notches, original reference heavy tank.\nRow1 Col3: Low long wedge hull, extremely long straight cannon, low casemate, slender rear antenna.\nRow1 Col4: Short broad tracked howitzer chassis, medium thick elevated cannon in open rear gun cradle, compact shield at breech.\nRow2 Col1: One chunky X-shaped steel anti-tank hedgehog, blue identification tape, unmistakably static obstacle not vehicle.\nRow2 Col2: Medium compact box hull, conventional round central turret with mid-length cannon, smaller than heavy.\nRow2 Col3: Tiny fast four-wheeled armored buggy with a single short nose cannon, sloped front, visible big wheels.\nRow2 Col4: Tiny tracked hull with large almost vertical open mortar tube and a little rear ammo bin, no horizontal long cannon.\nRow3 Col1: Short tracked carrier with big inclined rectangular rack of six rocket tubes, chunky clean box silhouette.\nRow3 Col2: Very flat angular triangular armored wedge, shrouded tracks, tiny flush barrel and blue angular slash.\nRow3 Col3: White compact tracked support vehicle with large simple articulated repair crane ending in wrench claw and blue repair cross.\nRow3 Col4: Tracked carrier with open launch tray containing two small winged drones, compact radar antenna, no gun turret.\n\nExactly 12 distinct objects, no extras."
+    },
+    {
+      "id": "A5-sprites-2",
+      "style": "A5",
+      "sheet": 2,
+      "type": "sprite-sheet",
+      "units": [
+        {
+          "id": "unit.engineer_vehicle",
+          "name": "Инженерная машина",
+          "status": "authored",
+          "description": "Boxy engineering half-track with short construction arm and one folded deployable sentry gun stowed on rear. Distinct from large repair crane.",
+          "index": 13,
+          "sheet": 2,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "id": "unit.demolition_vehicle",
+          "name": "Подрывная машина",
+          "status": "authored",
+          "description": "Small tracked ram vehicle with a big cuboid explosive charge strapped onto nose, angular blast pictogram, no flames.",
+          "index": 14,
+          "sheet": 2,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "id": "unit.chemical_demolition",
+          "name": "Химическая подрывная машина",
+          "status": "authored",
+          "description": "Low tracked vehicle with one enormous round chemical tank drum and two short pipes, tiny muted green hazard marking.",
+          "index": 15,
+          "sheet": 2,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "id": "unit.toxin_destroyer",
+          "name": "Токсичная ПТ",
+          "status": "authored",
+          "description": "Low PT hull with long thin injector cannon and two small cylindrical chemical canisters attached to rear turret.",
+          "index": 16,
+          "sheet": 2,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "id": "unit.drone_scout",
+          "name": "Разведывательный дрон",
+          "status": "child",
+          "description": "One small compact flying quadrotor drone with four distinct rotors, armored center and small lens; no ground shadow or stand.",
+          "index": 17,
+          "sheet": 2,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "id": "unit.sentry_turret",
+          "name": "Призываемая турель",
+          "status": "child",
+          "description": "Small static tripod sentry turret with a single short gun barrel, compact shield and square base, no tank tracks.",
+          "index": 18,
+          "sheet": 2,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "concept.fast_light_destroyer",
+          "name": "Скоростная лёгкая ПТ",
+          "status": "proposed",
+          "description": "Ultra-narrow lightweight tracked hull with long twin slim barrels side by side and very small turret, fast arrow-like silhouette.",
+          "index": 19,
+          "sheet": 2,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "concept.swarm_microvehicle",
+          "name": "Роевая микромашина",
+          "status": "proposed",
+          "description": "One very tiny rounded two-wheel scout pod with a front bumper and tiny stub cannon, simple pebble shape; ONE object not a swarm group.",
+          "index": 20,
+          "sheet": 2,
+          "row": 1,
+          "column": 3
+        },
+        {
+          "id": "concept.siege_transformer",
+          "name": "Осадный трансформер",
+          "status": "proposed",
+          "description": "Large towering tracked siege vehicle, two stacked armor sections, folded stabilizers and broad crushing shield arms, no humanoid face.",
+          "index": 21,
+          "sheet": 2,
+          "row": 2,
+          "column": 0
+        },
+        {
+          "id": "concept.burrow_drone",
+          "name": "Подземный дрон",
+          "status": "proposed",
+          "description": "Low tracked drilling vehicle with large spiral cone drill at nose, armored rounded shell and two stubby side stabilizers.",
+          "index": 22,
+          "sheet": 2,
+          "row": 2,
+          "column": 1
+        },
+        {
+          "id": "concept.radial_suppressor",
+          "name": "Круговое подавление",
+          "status": "proposed",
+          "description": "Round puck-like tracked machine with large spinning-disc turret and four short barrels pointing different directions, top circle clearly readable.",
+          "index": 23,
+          "sheet": 2,
+          "row": 2,
+          "column": 2
+        },
+        {
+          "id": "concept.active_protection",
+          "name": "Машина активной защиты",
+          "status": "proposed",
+          "description": "Broad support chassis with upright shield-shaped radar panel and small dome emitter, no cannon, blue shield mark.",
+          "index": 24,
+          "sheet": 2,
+          "row": 2,
+          "column": 3
+        }
+      ],
+      "prompt": "Generate a professional SPRITE SHEET for the original tank army game TANKDRAFT in the approved A5 art style from the supplied reference image. Reference is visual language source, NOT an edit target; isolate the VEHICLES, not menu UI.\nCANVAS: landscape 4:3, ideally2048x1536, TRANSPARENT PNG BACKGROUND with real alpha, no checkerboard painted into the image. EXACT rigid grid of FOUR columns and THREE rows of equal cells. No title, no text, no labels, no borders, no floor or scene props. Each sprite is centered at the exact center of its cell, uses at most75%cell width/height, whole object visible with generous margins, no object crosses grid boundaries. Empty unassigned cells remain fully transparent.\nSTYLE: Bold 2D ink poster illustration matching the dark reference: warm ivory solid armor masses, thick black track masses and dark separation lines, sparse small dark distressed marks, blue team tabs. The sprites must work on a dark charcoal game arena, BUT KEEP THIS SPRITE SHEET BACKGROUND TRANSPARENT. No black background rectangle.\nCONSISTENCY: all vehicles shown in the SAME elevated three-quarter view, front pointing toward LOWER LEFT of screen, modest top view around40degrees elevation, fixed lighting upper left, no perspective distortion. One distinct object per cell. Tanks compact squat exaggerated silhouettes; aircraft and obstacles retain their actual class. No people or faces, no realistic rivets/microtexture, no explosions, no effects, no HPbars, no interface. Each turret/barrel physically connected. Do not substitute duplicates for described roles. These are single static sprites, NOT multiple animation frames of the same tank.\nCELL CONTENTS, ordered LEFT TO RIGHT then TOP TO BOTTOM:\nRow1 Col1: Boxy engineering half-track with short construction arm and one folded deployable sentry gun stowed on rear. Distinct from large repair crane.\nRow1 Col2: Small tracked ram vehicle with a big cuboid explosive charge strapped onto nose, angular blast pictogram, no flames.\nRow1 Col3: Low tracked vehicle with one enormous round chemical tank drum and two short pipes, tiny muted green hazard marking.\nRow1 Col4: Low PT hull with long thin injector cannon and two small cylindrical chemical canisters attached to rear turret.\nRow2 Col1: One small compact flying quadrotor drone with four distinct rotors, armored center and small lens; no ground shadow or stand.\nRow2 Col2: Small static tripod sentry turret with a single short gun barrel, compact shield and square base, no tank tracks.\nRow2 Col3: Ultra-narrow lightweight tracked hull with long twin slim barrels side by side and very small turret, fast arrow-like silhouette.\nRow2 Col4: One very tiny rounded two-wheel scout pod with a front bumper and tiny stub cannon, simple pebble shape; ONE object not a swarm group.\nRow3 Col1: Large towering tracked siege vehicle, two stacked armor sections, folded stabilizers and broad crushing shield arms, no humanoid face.\nRow3 Col2: Low tracked drilling vehicle with large spiral cone drill at nose, armored rounded shell and two stubby side stabilizers.\nRow3 Col3: Round puck-like tracked machine with large spinning-disc turret and four short barrels pointing different directions, top circle clearly readable.\nRow3 Col4: Broad support chassis with upright shield-shaped radar panel and small dome emitter, no cannon, blue shield mark.\n\nExactly 12 distinct objects, no extras."
+    },
+    {
+      "id": "A5-sprites-3",
+      "style": "A5",
+      "sheet": 3,
+      "type": "sprite-sheet",
+      "units": [
+        {
+          "id": "concept.salvage_hijacker",
+          "name": "Машина захвата",
+          "status": "proposed",
+          "description": "Compact tracked recovery vehicle with forward twin clamp jaws and rear cable spool, one sensor mast, no big repair crane.",
+          "index": 25,
+          "sheet": 3,
+          "row": 0,
+          "column": 0
+        },
+        {
+          "id": "concept.lifesteal_assault",
+          "name": "Штурмовой рекуператор",
+          "status": "proposed",
+          "description": "Short heavily armored melee ram tank with two nose power couplers, thick looped side hoses and small battery block on rear.",
+          "index": 26,
+          "sheet": 3,
+          "row": 0,
+          "column": 1
+        },
+        {
+          "id": "concept.reactive_armor",
+          "name": "Танк с активной бронёй",
+          "status": "proposed",
+          "description": "Heavy tank behind enormous upright rectangular frontal armor plate with three big spaced armor segments, small turret peeks above.",
+          "index": 27,
+          "sheet": 3,
+          "row": 0,
+          "column": 2
+        },
+        {
+          "id": "concept.magazine_destroyer",
+          "name": "Магазинная ПТ",
+          "status": "proposed",
+          "description": "Sleek tracked assault gun with visible six-chamber cylindrical ammunition drum beside medium straight barrel. Not six barrels.",
+          "index": 28,
+          "sheet": 3,
+          "row": 0,
+          "column": 3
+        },
+        {
+          "id": "concept.mobile_grenadier",
+          "name": "Мобильный гранатомёт",
+          "status": "proposed",
+          "description": "Four-wheeled light vehicle with short fat arcing grenade-launcher tube and two large spherical ammunition containers on rear.",
+          "index": 29,
+          "sheet": 3,
+          "row": 1,
+          "column": 0
+        },
+        {
+          "id": "concept.electronic_warfare",
+          "name": "Машина РЭБ",
+          "status": "proposed",
+          "description": "Long support chassis with a large tilting satellite dish and two antenna masts, no conventional cannon.",
+          "index": 30,
+          "sheet": 3,
+          "row": 1,
+          "column": 1
+        },
+        {
+          "id": "concept.assault_helicopter",
+          "name": "Штурмовой вертолёт",
+          "status": "proposed",
+          "description": "One stylized compact attack helicopter with clearly separated rotor blades, short tail boom and twin tiny rocket pods, no pilot face.",
+          "index": 31,
+          "sheet": 3,
+          "row": 1,
+          "column": 2
+        },
+        {
+          "id": "concept.stealth_scout",
+          "name": "Стелс-разведчик",
+          "status": "proposed",
+          "description": "Narrow four-wheel enclosed scout car with sharp hood, small periscope and side cloaking plates, no giant tank turret.",
+          "index": 32,
+          "sheet": 3,
+          "row": 1,
+          "column": 3
+        },
+        {
+          "id": "concept.ground_drone_factory",
+          "name": "Мобильный завод дронов",
+          "status": "proposed",
+          "description": "Wide tall tracked box factory with an open rear ramp and one tiny crawler visible in launch bay, compact assembly gantry on roof.",
+          "index": 33,
+          "sheet": 3,
+          "row": 2,
+          "column": 0
+        }
+      ],
+      "prompt": "Generate a professional SPRITE SHEET for the original tank army game TANKDRAFT in the approved A5 art style from the supplied reference image. Reference is visual language source, NOT an edit target; isolate the VEHICLES, not menu UI.\nCANVAS: landscape 4:3, ideally2048x1536, TRANSPARENT PNG BACKGROUND with real alpha, no checkerboard painted into the image. EXACT rigid grid of FOUR columns and THREE rows of equal cells. No title, no text, no labels, no borders, no floor or scene props. Each sprite is centered at the exact center of its cell, uses at most75%cell width/height, whole object visible with generous margins, no object crosses grid boundaries. Empty unassigned cells remain fully transparent.\nSTYLE: Bold 2D ink poster illustration matching the dark reference: warm ivory solid armor masses, thick black track masses and dark separation lines, sparse small dark distressed marks, blue team tabs. The sprites must work on a dark charcoal game arena, BUT KEEP THIS SPRITE SHEET BACKGROUND TRANSPARENT. No black background rectangle.\nCONSISTENCY: all vehicles shown in the SAME elevated three-quarter view, front pointing toward LOWER LEFT of screen, modest top view around40degrees elevation, fixed lighting upper left, no perspective distortion. One distinct object per cell. Tanks compact squat exaggerated silhouettes; aircraft and obstacles retain their actual class. No people or faces, no realistic rivets/microtexture, no explosions, no effects, no HPbars, no interface. Each turret/barrel physically connected. Do not substitute duplicates for described roles. These are single static sprites, NOT multiple animation frames of the same tank.\nCELL CONTENTS, ordered LEFT TO RIGHT then TOP TO BOTTOM:\nRow1 Col1: Compact tracked recovery vehicle with forward twin clamp jaws and rear cable spool, one sensor mast, no big repair crane.\nRow1 Col2: Short heavily armored melee ram tank with two nose power couplers, thick looped side hoses and small battery block on rear.\nRow1 Col3: Heavy tank behind enormous upright rectangular frontal armor plate with three big spaced armor segments, small turret peeks above.\nRow1 Col4: Sleek tracked assault gun with visible six-chamber cylindrical ammunition drum beside medium straight barrel. Not six barrels.\nRow2 Col1: Four-wheeled light vehicle with short fat arcing grenade-launcher tube and two large spherical ammunition containers on rear.\nRow2 Col2: Long support chassis with a large tilting satellite dish and two antenna masts, no conventional cannon.\nRow2 Col3: One stylized compact attack helicopter with clearly separated rotor blades, short tail boom and twin tiny rocket pods, no pilot face.\nRow2 Col4: Narrow four-wheel enclosed scout car with sharp hood, small periscope and side cloaking plates, no giant tank turret.\nRow3 Col1: Wide tall tracked box factory with an open rear ramp and one tiny crawler visible in launch bay, compact assembly gantry on roof.\nRow3 Col2, Row3 Col3, Row3 Col4 are EMPTY TRANSPARENT.\nExactly 9 distinct objects, no extras."
+    }
+  ],
+  "roster": [
+    {
+      "id": "unit.mines",
+      "name": "Мины",
+      "status": "authored",
+      "description": "A pair of squat circular contact mines, small pressure plates, blue team tab; no barrel.",
+      "index": 1,
+      "sheet": 1,
+      "row": 0,
+      "column": 0
+    },
+    {
+      "id": "unit.heavy_tank",
+      "name": "Тяжёлый танк",
+      "status": "authored",
+      "description": "Very broad rounded armored tracked hull, massive simple short-cannon turret, three big dark wheel notches, original reference heavy tank.",
+      "index": 2,
+      "sheet": 1,
+      "row": 0,
+      "column": 1
+    },
+    {
+      "id": "unit.tank_destroyer",
+      "name": "ПТ-САУ",
+      "status": "authored",
+      "description": "Low long wedge hull, extremely long straight cannon, low casemate, slender rear antenna.",
+      "index": 3,
+      "sheet": 1,
+      "row": 0,
+      "column": 2
+    },
+    {
+      "id": "unit.field_artillery",
+      "name": "Полевая артиллерия",
+      "status": "authored",
+      "description": "Short broad tracked howitzer chassis, medium thick elevated cannon in open rear gun cradle, compact shield at breech.",
+      "index": 4,
+      "sheet": 1,
+      "row": 0,
+      "column": 3
+    },
+    {
+      "id": "unit.anti_tank_obstacle",
+      "name": "Противотанковое заграждение",
+      "status": "authored",
+      "description": "One chunky X-shaped steel anti-tank hedgehog, blue identification tape, unmistakably static obstacle not vehicle.",
+      "index": 5,
+      "sheet": 1,
+      "row": 1,
+      "column": 0
+    },
+    {
+      "id": "unit.medium_tank",
+      "name": "Средний танк",
+      "status": "authored",
+      "description": "Medium compact box hull, conventional round central turret with mid-length cannon, smaller than heavy.",
+      "index": 6,
+      "sheet": 1,
+      "row": 1,
+      "column": 1
+    },
+    {
+      "id": "unit.light_raider",
+      "name": "Лёгкий рейдер",
+      "status": "authored",
+      "description": "Tiny fast four-wheeled armored buggy with a single short nose cannon, sloped front, visible big wheels.",
+      "index": 7,
+      "sheet": 1,
+      "row": 1,
+      "column": 2
+    },
+    {
+      "id": "unit.mobile_mortar",
+      "name": "Самоходный миномёт",
+      "status": "authored",
+      "description": "Tiny tracked hull with large almost vertical open mortar tube and a little rear ammo bin, no horizontal long cannon.",
+      "index": 8,
+      "sheet": 1,
+      "row": 1,
+      "column": 3
+    },
+    {
+      "id": "unit.rocket_artillery",
+      "name": "РСЗО",
+      "status": "authored",
+      "description": "Short tracked carrier with big inclined rectangular rack of six rocket tubes, chunky clean box silhouette.",
+      "index": 9,
+      "sheet": 1,
+      "row": 2,
+      "column": 0
+    },
+    {
+      "id": "unit.stealth_vehicle",
+      "name": "Стелс-танк",
+      "status": "authored",
+      "description": "Very flat angular triangular armored wedge, shrouded tracks, tiny flush barrel and blue angular slash.",
+      "index": 10,
+      "sheet": 1,
+      "row": 2,
+      "column": 1
+    },
+    {
+      "id": "unit.repair_vehicle",
+      "name": "Ремонтная машина",
+      "status": "authored",
+      "description": "White compact tracked support vehicle with large simple articulated repair crane ending in wrench claw and blue repair cross.",
+      "index": 11,
+      "sheet": 1,
+      "row": 2,
+      "column": 2
+    },
+    {
+      "id": "unit.drone_carrier",
+      "name": "Носитель дронов",
+      "status": "authored",
+      "description": "Tracked carrier with open launch tray containing two small winged drones, compact radar antenna, no gun turret.",
+      "index": 12,
+      "sheet": 1,
+      "row": 2,
+      "column": 3
+    },
+    {
+      "id": "unit.engineer_vehicle",
+      "name": "Инженерная машина",
+      "status": "authored",
+      "description": "Boxy engineering half-track with short construction arm and one folded deployable sentry gun stowed on rear. Distinct from large repair crane.",
+      "index": 13,
+      "sheet": 2,
+      "row": 0,
+      "column": 0
+    },
+    {
+      "id": "unit.demolition_vehicle",
+      "name": "Подрывная машина",
+      "status": "authored",
+      "description": "Small tracked ram vehicle with a big cuboid explosive charge strapped onto nose, angular blast pictogram, no flames.",
+      "index": 14,
+      "sheet": 2,
+      "row": 0,
+      "column": 1
+    },
+    {
+      "id": "unit.chemical_demolition",
+      "name": "Химическая подрывная машина",
+      "status": "authored",
+      "description": "Low tracked vehicle with one enormous round chemical tank drum and two short pipes, tiny muted green hazard marking.",
+      "index": 15,
+      "sheet": 2,
+      "row": 0,
+      "column": 2
+    },
+    {
+      "id": "unit.toxin_destroyer",
+      "name": "Токсичная ПТ",
+      "status": "authored",
+      "description": "Low PT hull with long thin injector cannon and two small cylindrical chemical canisters attached to rear turret.",
+      "index": 16,
+      "sheet": 2,
+      "row": 0,
+      "column": 3
+    },
+    {
+      "id": "unit.drone_scout",
+      "name": "Разведывательный дрон",
+      "status": "child",
+      "description": "One small compact flying quadrotor drone with four distinct rotors, armored center and small lens; no ground shadow or stand.",
+      "index": 17,
+      "sheet": 2,
+      "row": 1,
+      "column": 0
+    },
+    {
+      "id": "unit.sentry_turret",
+      "name": "Призываемая турель",
+      "status": "child",
+      "description": "Small static tripod sentry turret with a single short gun barrel, compact shield and square base, no tank tracks.",
+      "index": 18,
+      "sheet": 2,
+      "row": 1,
+      "column": 1
+    },
+    {
+      "id": "concept.fast_light_destroyer",
+      "name": "Скоростная лёгкая ПТ",
+      "status": "proposed",
+      "description": "Ultra-narrow lightweight tracked hull with long twin slim barrels side by side and very small turret, fast arrow-like silhouette.",
+      "index": 19,
+      "sheet": 2,
+      "row": 1,
+      "column": 2
+    },
+    {
+      "id": "concept.swarm_microvehicle",
+      "name": "Роевая микромашина",
+      "status": "proposed",
+      "description": "One very tiny rounded two-wheel scout pod with a front bumper and tiny stub cannon, simple pebble shape; ONE object not a swarm group.",
+      "index": 20,
+      "sheet": 2,
+      "row": 1,
+      "column": 3
+    },
+    {
+      "id": "concept.siege_transformer",
+      "name": "Осадный трансформер",
+      "status": "proposed",
+      "description": "Large towering tracked siege vehicle, two stacked armor sections, folded stabilizers and broad crushing shield arms, no humanoid face.",
+      "index": 21,
+      "sheet": 2,
+      "row": 2,
+      "column": 0
+    },
+    {
+      "id": "concept.burrow_drone",
+      "name": "Подземный дрон",
+      "status": "proposed",
+      "description": "Low tracked drilling vehicle with large spiral cone drill at nose, armored rounded shell and two stubby side stabilizers.",
+      "index": 22,
+      "sheet": 2,
+      "row": 2,
+      "column": 1
+    },
+    {
+      "id": "concept.radial_suppressor",
+      "name": "Круговое подавление",
+      "status": "proposed",
+      "description": "Round puck-like tracked machine with large spinning-disc turret and four short barrels pointing different directions, top circle clearly readable.",
+      "index": 23,
+      "sheet": 2,
+      "row": 2,
+      "column": 2
+    },
+    {
+      "id": "concept.active_protection",
+      "name": "Машина активной защиты",
+      "status": "proposed",
+      "description": "Broad support chassis with upright shield-shaped radar panel and small dome emitter, no cannon, blue shield mark.",
+      "index": 24,
+      "sheet": 2,
+      "row": 2,
+      "column": 3
+    },
+    {
+      "id": "concept.salvage_hijacker",
+      "name": "Машина захвата",
+      "status": "proposed",
+      "description": "Compact tracked recovery vehicle with forward twin clamp jaws and rear cable spool, one sensor mast, no big repair crane.",
+      "index": 25,
+      "sheet": 3,
+      "row": 0,
+      "column": 0
+    },
+    {
+      "id": "concept.lifesteal_assault",
+      "name": "Штурмовой рекуператор",
+      "status": "proposed",
+      "description": "Short heavily armored melee ram tank with two nose power couplers, thick looped side hoses and small battery block on rear.",
+      "index": 26,
+      "sheet": 3,
+      "row": 0,
+      "column": 1
+    },
+    {
+      "id": "concept.reactive_armor",
+      "name": "Танк с активной бронёй",
+      "status": "proposed",
+      "description": "Heavy tank behind enormous upright rectangular frontal armor plate with three big spaced armor segments, small turret peeks above.",
+      "index": 27,
+      "sheet": 3,
+      "row": 0,
+      "column": 2
+    },
+    {
+      "id": "concept.magazine_destroyer",
+      "name": "Магазинная ПТ",
+      "status": "proposed",
+      "description": "Sleek tracked assault gun with visible six-chamber cylindrical ammunition drum beside medium straight barrel. Not six barrels.",
+      "index": 28,
+      "sheet": 3,
+      "row": 0,
+      "column": 3
+    },
+    {
+      "id": "concept.mobile_grenadier",
+      "name": "Мобильный гранатомёт",
+      "status": "proposed",
+      "description": "Four-wheeled light vehicle with short fat arcing grenade-launcher tube and two large spherical ammunition containers on rear.",
+      "index": 29,
+      "sheet": 3,
+      "row": 1,
+      "column": 0
+    },
+    {
+      "id": "concept.electronic_warfare",
+      "name": "Машина РЭБ",
+      "status": "proposed",
+      "description": "Long support chassis with a large tilting satellite dish and two antenna masts, no conventional cannon.",
+      "index": 30,
+      "sheet": 3,
+      "row": 1,
+      "column": 1
+    },
+    {
+      "id": "concept.assault_helicopter",
+      "name": "Штурмовой вертолёт",
+      "status": "proposed",
+      "description": "One stylized compact attack helicopter with clearly separated rotor blades, short tail boom and twin tiny rocket pods, no pilot face.",
+      "index": 31,
+      "sheet": 3,
+      "row": 1,
+      "column": 2
+    },
+    {
+      "id": "concept.stealth_scout",
+      "name": "Стелс-разведчик",
+      "status": "proposed",
+      "description": "Narrow four-wheel enclosed scout car with sharp hood, small periscope and side cloaking plates, no giant tank turret.",
+      "index": 32,
+      "sheet": 3,
+      "row": 1,
+      "column": 3
+    },
+    {
+      "id": "concept.ground_drone_factory",
+      "name": "Мобильный завод дронов",
+      "status": "proposed",
+      "description": "Wide tall tracked box factory with an open rear ramp and one tiny crawler visible in launch bay, compact assembly gantry on roof.",
+      "index": 33,
+      "sheet": 3,
+      "row": 2,
+      "column": 0
+    }
+  ],
+  "baseline": {
+    "A1": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-owner-references/A1-menu-battle.png",
+    "A5": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-owner-references/A5-menu-battle.png"
+  }
+}

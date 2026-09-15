@@ -1,0 +1,10 @@
+{
+  "name": "SLVR.UIMotion.Spine",
+  "rootNamespace": "SLVR.UIMotion.Spine",
+  "references": [
+    "SLVR.UIMotion.Runtime",
+    "spine-unity"
+  ],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

@@ -1,0 +1,115 @@
+{
+  "files": [
+    {
+      "id": "A1",
+      "file": "A1-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 1978015,
+      "sha256": "bdb629d0b8c33bd641fe9ba18d2932209068b1fcf5cb2be60673e11a632f349b",
+      "source_bytes_equal": true
+    },
+    {
+      "id": "A2",
+      "file": "A2-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 1729455,
+      "sha256": "2cb141cc1db6616641a4eaa302255260d59002f775cf870d471899308da8a6e2",
+      "source_bytes_equal": true
+    },
+    {
+      "id": "A3",
+      "file": "A3-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 2012049,
+      "sha256": "ce983a2354013209eb41efd576a908bbbe9ad2ad45302bf2f57a78c4327fcb84",
+      "source_bytes_equal": true
+    },
+    {
+      "id": "A4",
+      "file": "A4-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 2590055,
+      "sha256": "e788ccdb3cfcfbb3f63d63ea08f4585a29395a6fceda0f6c2f146499f123d980",
+      "source_bytes_equal": true
+    },
+    {
+      "id": "A5",
+      "file": "A5-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 2011711,
+      "sha256": "d54bb6b454628de4963d60b22420b860bc8f9bf54347e48ba61f0cb4e311fa50",
+      "source_bytes_equal": true
+    },
+    {
+      "id": "B1",
+      "file": "B1-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 2409340,
+      "sha256": "395dbd7a34ba47e46acfe5292f2f9d71ce63a61eb0c3d320d43c92fb13f034b6",
+      "source_bytes_equal": true
+    },
+    {
+      "id": "B2",
+      "file": "B2-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 2246433,
+      "sha256": "f9ad3e4b6361b0a4564d3ce1148aba21283554c833c73273d488eb96182672dc",
+      "source_bytes_equal": true
+    },
+    {
+      "id": "B3",
+      "file": "B3-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 2640649,
+      "sha256": "cf1b5971e0fd4f46fe2cf455c50036f39c53aa73d39d9e3d8814485cb7553250",
+      "source_bytes_equal": true
+    },
+    {
+      "id": "B4",
+      "file": "B4-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 2348475,
+      "sha256": "81aed4b067724c18964544a1bb3270ec1cde974e76b71763fae2a79ed4ed75bb",
+      "source_bytes_equal": true
+    },
+    {
+      "id": "B5",
+      "file": "B5-menu-battle.png",
+      "dimensions": {
+        "width": 1254,
+        "height": 1254
+      },
+      "size_bytes": 2322938,
+      "sha256": "740d1b9ebe2eca186fd4adda593ddb3c3659243c702e1b24a061dae417f7e88b",
+      "source_bytes_equal": true
+    }
+  ],
+  "total_size_bytes": 22289120
+}

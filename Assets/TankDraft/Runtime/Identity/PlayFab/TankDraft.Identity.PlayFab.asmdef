@@ -1,0 +1,5 @@
+{
+  "name": "TankDraft.Identity.PlayFab",
+  "references": ["PlayFab", "Unity.Newtonsoft.Json", "TankDraft.Match.ServerClient"],
+  "autoReferenced": true
+}

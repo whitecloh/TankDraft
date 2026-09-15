@@ -1,0 +1,1 @@
+{"name":"TankDraft.Battle.Presentation","references":["TankDraft.Contracts","TankDraft.Art.A1","Vareiko.Foundation.UI","Unity.ugui","Unity.TextMeshPro"],"autoReferenced":true,"noEngineReferences":false}

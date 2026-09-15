@@ -1,0 +1,10 @@
+{
+  "Mode": "LocalOnly",
+  "QueueTimeoutSeconds": 10,
+  "MaxQueued": 8,
+  "MaxActiveMatches": 4,
+  "CompletedRetentionSeconds": 60,
+  "BotThinkMilliseconds": 500,
+  "BotDeck": ["unit.mines", "unit.heavy_tank", "unit.tank_destroyer", "unit.field_artillery"],
+  "BotOrderId": "order.reinforce_armor"
+}

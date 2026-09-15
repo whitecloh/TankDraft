@@ -1,0 +1,13 @@
+{
+  "name": "TankDraft.Match.Content",
+  "references": [
+    "TankDraft.Match.Domain",
+    "TankDraft.Battle.Content",
+    "TankDraft.Battle.Presentation",
+    "TankDraft.Content",
+    "TankDraft.Infrastructure",
+    "TankDraft.Contracts"
+  ],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

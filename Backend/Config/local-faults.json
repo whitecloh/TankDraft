@@ -1,0 +1,9 @@
+{
+  "Mode": "LocalOnly",
+  "Profile": "tls-loopback-v1",
+  "BaseDelayMs": 40,
+  "JitterMs": 80,
+  "Seed": 1741,
+  "MaxConnections": 8,
+  "BufferBytes": 16384
+}

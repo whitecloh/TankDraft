@@ -1,0 +1,137 @@
+{
+  "screens": {
+    "arena": {
+      "status": "ready"
+    },
+    "battle": {
+      "status": "ready"
+    },
+    "shop-packs": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-4019e2c1-6bed-4037-8804-baf92928d770.png"
+    },
+    "pack-details": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-1098af28-774e-4847-8aa7-046d55d726b9.png"
+    },
+    "shop-gems": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-4b256e83-b870-4c12-86b9-3970e817f596.png"
+    },
+    "shop-coins": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-863cb141-37b6-4a27-9dcf-6a1214a4f14b.png"
+    },
+    "collection-units": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-06e0aade-13dc-44ed-973d-cd55c4c6e28e.png"
+    },
+    "collection-spells": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-e3aad879-ac82-4512-a49c-8852e17fedda.png"
+    },
+    "unit-stats": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-59399b3b-f8d2-49f8-816f-ba2b1147b621.png"
+    },
+    "unit-locked": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-d7ec80e6-4624-48e4-8f78-08c48b9affb8.png"
+    },
+    "unit-mastery": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-e8c781c7-e574-4f34-8399-0ff44c9e90b3.png"
+    },
+    "spell-stats": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-b08a7d42-5e80-4cc4-acab-6198d0cb117a.png"
+    },
+    "spell-locked": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-f9602b01-bc93-4c42-a809-088a70459158.png"
+    },
+    "commander": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-13dda70e-d35a-4354-8814-1f1959365175.png"
+    },
+    "profile": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-bb656bdb-6c56-4154-bc6f-f940f49c0ba8.png"
+    },
+    "customize": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-d7f3065a-b0a4-43c0-9e1a-f2d2e470cb94.png"
+    },
+    "draft": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-4bbeeedd-8514-470d-ba4d-36667ce458d1.png"
+    },
+    "draft-comeback": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-861a3170-b16b-453d-89aa-9ff38c186862.png"
+    },
+    "round-result": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-f4c220e3-5bbc-4285-98bb-8244e11795e2.png"
+    },
+    "victory": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-c61c4085-caef-436d-b80d-3c6c50e4154f.png"
+    },
+    "rewards": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-b3a3686a-6b1a-4ef8-aed4-b1d5fbb2efd3.png"
+    },
+    "rating": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-46ac9fbe-5490-4fcc-b219-d8c902db0ce4.png"
+    },
+    "rating-rules": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-2a4418fd-5696-4a37-9bec-2532a6f5785b.png"
+    },
+    "pass": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-292675c1-dcff-453b-8af9-69a65d0d42bf.png"
+    },
+    "matchmaking": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-9bedc15d-e357-467e-aa1b-0b6b59773822.png"
+    },
+    "defeat": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-64b00bb7-b22e-44e5-898f-69e2549b7f41.png"
+    },
+    "settings": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-99682747-0c87-443f-be73-390200bf1fbe.png"
+    }
+  },
+  "sprites": {
+    "A1-1": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-8365e5dd-4d8f-4574-be8d-5b5ee69436f4.png"
+    },
+    "A1-2": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-97bd1837-98dd-4736-9e64-d0613f0721cd.png"
+    },
+    "A1-3": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-7fbb643f-db0f-4aae-8bb8-971619557920.png"
+    },
+    "A5-1": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-c07166e8-42d9-4ac4-a583-cb73496fff90.png"
+    },
+    "A5-2": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-08c8dbba-adb6-4445-a369-6aaec0d6853b.png"
+    },
+    "A5-3": {
+      "status": "ready",
+      "source": "C:\\Users\\ramze\\.codex\\generated_images\\01a0a650-20b4-7433-a7b4-8879b9f0f7a5\\exec-9871b569-658d-4143-9bc2-061b64a76420.png"
+    }
+  },
+  "missing": []
+}

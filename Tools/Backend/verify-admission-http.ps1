@@ -1,0 +1,11 @@
+$ErrorActionPreference = 'Stop'
+$root = [IO.Path]::GetFullPath((Join-Path $PSScriptRoot '../..'))
+$dotnet = Join-Path $root 'Logs/BackendSdk/dotnet.exe'
+$project = Join-Path $root 'Backend/TankDraft.AdmissionHttpChecks/TankDraft.AdmissionHttpChecks.csproj'
+Push-Location (Join-Path $root 'Backend')
+try {
+    & $dotnet restore $project --configfile NuGet.Config --locked-mode
+    if ($LASTEXITCODE) { throw 'Locked admission HTTP restore failed.' }
+    & $dotnet run --project $project --no-restore -c Release
+    if ($LASTEXITCODE) { throw 'Admission HTTP/core checks failed.' }
+} finally { Pop-Location }

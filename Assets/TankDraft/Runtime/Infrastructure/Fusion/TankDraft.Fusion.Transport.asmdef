@@ -1,0 +1,1 @@
+{"name":"TankDraft.Fusion.Transport","references":["Fusion.Unity","Photon.Realtime","Unity.Newtonsoft.Json","TankDraft.Contracts"],"autoReferenced":true}

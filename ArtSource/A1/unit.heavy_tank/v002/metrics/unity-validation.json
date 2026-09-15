@@ -1,0 +1,96 @@
+{
+    "timestampUtc": "2026-09-15T21:17:36.0826892Z",
+    "unityVersion": "6000.3.10f1",
+    "graphicsApi": "Direct3D12",
+    "colorSpace": "Gamma",
+    "scope": "Actual imported prefab and isolated Editor objects. No production battle or device FPS claim.",
+    "passed": true,
+    "instancingSupported": true,
+    "materialInstancing": true,
+    "readableDisabled": true,
+    "sharedMaterials": 1,
+    "sampleUnits": 96,
+    "sampleActiveRenderers": 288,
+    "sampleTriangles": 109824,
+    "tiers": [
+        {
+            "tier": 1,
+            "triangles": 924,
+            "vertices": 1568,
+            "activeRenderers": 3,
+            "submeshes": 3,
+            "teamMaskVertices": 24,
+            "editorMeshMemoryBytes": 103576,
+            "boundsSize": {
+                "x": 2.06000018119812,
+                "y": 1.6634807586669922,
+                "z": 2.631807327270508
+            },
+            "boundsMin": {
+                "x": -1.03000009059906,
+                "y": 0.019999802112579347,
+                "z": -1.2537540197372437
+            },
+            "muzzle": {
+                "x": 1.1758365303649043e-7,
+                "y": 1.2799997329711915,
+                "z": 1.345000147819519
+            }
+        },
+        {
+            "tier": 2,
+            "triangles": 972,
+            "vertices": 1664,
+            "activeRenderers": 3,
+            "submeshes": 3,
+            "teamMaskVertices": 24,
+            "editorMeshMemoryBytes": 109528,
+            "boundsSize": {
+                "x": 2.171961545944214,
+                "y": 1.743480920791626,
+                "z": 2.752192497253418
+            },
+            "boundsMin": {
+                "x": -1.085980772972107,
+                "y": 0.019999802112579347,
+                "z": -1.2541394233703614
+            },
+            "muzzle": {
+                "x": 1.2807439020434686e-7,
+                "y": 1.2799997329711915,
+                "z": 1.4650001525878907
+            }
+        },
+        {
+            "tier": 3,
+            "triangles": 1144,
+            "vertices": 2000,
+            "activeRenderers": 3,
+            "submeshes": 3,
+            "teamMaskVertices": 24,
+            "editorMeshMemoryBytes": 130408,
+            "boundsSize": {
+                "x": 2.3119616508483888,
+                "y": 1.803480863571167,
+                "z": 2.8025624752044679
+            },
+            "boundsMin": {
+                "x": -1.1559808254241944,
+                "y": 0.019999802112579347,
+                "z": -1.2545092105865479
+            },
+            "muzzle": {
+                "x": 1.3244552121705056e-7,
+                "y": 1.2799996137619019,
+                "z": 1.5150001049041749
+            }
+        }
+    ],
+    "checks": [
+        "Prefab/config references, stable ID, one shared material, one shader pass",
+        "All three imported tiers: dimensions, +Z muzzle, mask restricted to roof, 3 submeshes, <1600 triangles",
+        "All six tier/team states: color on all bindings, only chosen tier active, shared material retained",
+        "Aim persists through upgrade; muzzle follows turret and positive recoil retracts; pool reset restores defaults",
+        "96 instantiated highest-tier units share meshes/material; only 288 mesh renderers active (not an FPS benchmark)"
+    ]
+}

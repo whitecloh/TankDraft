@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 2,
+  "screen": "arena",
+  "state": "normal",
+  "viewport": {
+    "width": 576,
+    "height": 1280,
+    "safeTop": 0,
+    "safeBottom": 0
+  },
+  "theme": {
+    "background": "#17212c",
+    "accent": "#82e1ce",
+    "text": "#e5edf5"
+  },
+  "reference": {
+    "id": "arena",
+    "file": "References/arena.jpg",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 320,
+    "sourceWidth": 576,
+    "sourceHeight": 1280,
+    "fitRect": {
+      "x": 0,
+      "y": 0,
+      "width": 576,
+      "height": 1280
+    }
+  },
+  "groups": [
+    {
+      "id": "group.wallet",
+      "type": "horizontal",
+      "alignment": "MiddleCenter",
+      "x": 24,
+      "y": 49,
+      "width": 528,
+      "height": 48,
+      "cellWidth": 120,
+      "cellHeight": 48,
+      "spacingX": 10,
+      "spacingY": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "columns": 1,
+      "children": [
+        "wallet.0",
+        "wallet.1",
+        "wallet.2",
+        "wallet.3"
+      ]
+    },
+    {
+      "id": "group.rewards",
+      "type": "horizontal",
+      "alignment": "MiddleCenter",
+      "x": 97,
+      "y": 866,
+      "width": 382,
+      "height": 87,
+      "cellWidth": 81,
+      "cellHeight": 87,
+      "spacingX": 10,
+      "spacingY": 0,
+      "paddingLeft": 0,
+      "paddingRight": 0,
+      "paddingTop": 0,
+      "paddingBottom": 0,
+      "columns": 1,
+      "children": [
+        "arena.reward.0",
+        "arena.reward.1",
+        "arena.reward.2",
+        "arena.reward.3"
+      ]
+    }
+  ],
+  "elements": [
+    {
+      "id": "wallet.0",
+      "kind": "button",
+      "label": "Энергия",
+      "x": 33,
+      "y": 49,
+      "width": 120,
+      "height": 48
+    },
+    {
+      "id": "wallet.1",
+      "kind": "button",
+      "label": "Самоцветы",
+      "x": 163,
+      "y": 49,
+      "width": 120,
+      "height": 48
+    },
+    {
+      "id": "wallet.2",
+      "kind": "button",
+      "label": "Монеты",
+      "x": 293,
+      "y": 49,
+      "width": 120,
+      "height": 48
+    },
+    {
+      "id": "wallet.3",
+      "kind": "button",
+      "label": "Мастерство",
+      "x": 423,
+      "y": 49,
+      "width": 120,
+      "height": 48
+    },
+    {
+      "id": "profile.open",
+      "kind": "button",
+      "label": "Профиль / баннер игрока",
+      "x": 10,
+      "y": 110,
+      "width": 313,
+      "height": 124
+    },
+    {
+      "id": "pass.open",
+      "kind": "button",
+      "label": "Пропуск / прогресс",
+      "x": 326,
+      "y": 120,
+      "width": 250,
+      "height": 112
+    },
+    {
+      "id": "removeAds",
+      "kind": "button",
+      "label": "Без рекламы",
+      "x": 17,
+      "y": 273,
+      "width": 77,
+      "height": 92
+    },
+    {
+      "id": "settings",
+      "kind": "button",
+      "label": "Настройки",
+      "x": 487,
+      "y": 264,
+      "width": 66,
+      "height": 68
+    },
+    {
+      "id": "arena.art",
+      "kind": "vehicle",
+      "label": "Объект текущей арены",
+      "x": 81,
+      "y": 430,
+      "width": 413,
+      "height": 294
+    },
+    {
+      "id": "arena.reward.gems",
+      "kind": "button",
+      "label": "Награда: самоцветы",
+      "x": 295,
+      "y": 633,
+      "width": 85,
+      "height": 102
+    },
+    {
+      "id": "arena.reward.chips",
+      "kind": "button",
+      "label": "Награда: мастерство",
+      "x": 386,
+      "y": 638,
+      "width": 88,
+      "height": 91
+    },
+    {
+      "id": "arena.progress",
+      "kind": "panel",
+      "label": "Прогресс арены",
+      "x": 38,
+      "y": 718,
+      "width": 502,
+      "height": 74
+    },
+    {
+      "id": "arena.progress.value",
+      "kind": "label",
+      "label": "22 / 240",
+      "x": 214,
+      "y": 735,
+      "width": 164,
+      "height": 43
+    },
+    {
+      "id": "arena.previous",
+      "kind": "button",
+      "label": "Предыдущая арена",
+      "x": 73,
+      "y": 787,
+      "width": 54,
+      "height": 55
+    },
+    {
+      "id": "arena.next",
+      "kind": "button",
+      "label": "Следующая арена",
+      "x": 447,
+      "y": 787,
+      "width": 56,
+      "height": 55
+    },
+    {
+      "id": "arena.name",
+      "kind": "label",
+      "label": "5. Яма сокрушения",
+      "x": 129,
+      "y": 793,
+      "width": 317,
+      "height": 44
+    },
+    {
+      "id": "arena.reward.0",
+      "kind": "button",
+      "label": "Слот награды 1",
+      "x": 111,
+      "y": 866,
+      "width": 81,
+      "height": 87
+    },
+    {
+      "id": "arena.reward.1",
+      "kind": "button",
+      "label": "Слот награды 2",
+      "x": 202,
+      "y": 866,
+      "width": 81,
+      "height": 87
+    },
+    {
+      "id": "arena.reward.2",
+      "kind": "button",
+      "label": "Слот награды 3",
+      "x": 293,
+      "y": 866,
+      "width": 81,
+      "height": 87
+    },
+    {
+      "id": "arena.reward.3",
+      "kind": "button",
+      "label": "Слот награды 4",
+      "x": 384,
+      "y": 866,
+      "width": 81,
+      "height": 87
+    },
+    {
+      "id": "battle.start",
+      "kind": "button",
+      "label": "БИТВА",
+      "x": 145,
+      "y": 964,
+      "width": 288,
+      "height": 111
+    },
+    {
+      "id": "nav.0",
+      "kind": "button",
+      "label": "Магазин",
+      "x": 0,
+      "y": 1133,
+      "width": 109,
+      "height": 147
+    },
+    {
+      "id": "nav.1",
+      "kind": "button",
+      "label": "Коллекция",
+      "x": 109,
+      "y": 1133,
+      "width": 105,
+      "height": 147
+    },
+    {
+      "id": "nav.2",
+      "kind": "button",
+      "label": "Битва",
+      "x": 214,
+      "y": 1117,
+      "width": 148,
+      "height": 163
+    },
+    {
+      "id": "nav.3",
+      "kind": "button",
+      "label": "События",
+      "x": 362,
+      "y": 1133,
+      "width": 108,
+      "height": 147
+    },
+    {
+      "id": "nav.4",
+      "kind": "button",
+      "label": "Рейтинг",
+      "x": 470,
+      "y": 1133,
+      "width": 106,
+      "height": 147
+    }
+  ]
+}

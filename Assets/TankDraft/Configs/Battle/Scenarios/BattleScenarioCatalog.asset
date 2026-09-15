@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c394e1cab53f9ec4992923a1a5e45453, type: 3}
+  m_Name: BattleScenarioCatalog
+  m_EditorClassIdentifier: TankDraft.Battle.Content::TankDraft.BattleContent.BattleScenarioCatalogAsset
+  _rules: {fileID: 11400000, guid: ed22334de6443bd468593de4ca41bf0a, type: 2}
+  _units:
+  - {fileID: 11400000, guid: a7a005801deef584c94e217d37ecb15a, type: 2}
+  - {fileID: 11400000, guid: b8d701f2b5dde9c43baa2162671346bd, type: 2}
+  - {fileID: 11400000, guid: 322a227c61d5fc3419a8bbb89117cdd9, type: 2}
+  - {fileID: 11400000, guid: 7534b5f613296bd4f870a6a44ab9f56c, type: 2}
+  - {fileID: 11400000, guid: 2d086299ab0830d4ebd7569f6d5d98a8, type: 2}
+  - {fileID: 11400000, guid: 6ffda2fafbd255b4986630ad6e02f512, type: 2}
+  - {fileID: 11400000, guid: 83de65ccdcc24474da7b6286f2245d66, type: 2}
+  - {fileID: 11400000, guid: 7e02e9cf94012f247b34c39e85a8387c, type: 2}
+  - {fileID: 11400000, guid: ee86748062a22d64087447e887d4512f, type: 2}
+  - {fileID: 11400000, guid: 366349f1ced4f954f8292c6c4dc7f131, type: 2}
+  - {fileID: 11400000, guid: 46ced84a32243f141864b4c105f8229c, type: 2}
+  - {fileID: 11400000, guid: a348ee6fd5882e34790e2212834adf48, type: 2}
+  - {fileID: 11400000, guid: 2abe9f40b921780419308e01787217c9, type: 2}
+  - {fileID: 11400000, guid: ae89428410ad028419950a9f9d89b800, type: 2}
+  - {fileID: 11400000, guid: f3b52515ab17b754b86db7f6bd05b635, type: 2}
+  - {fileID: 11400000, guid: 113320e465af275428b2d68f698087a4, type: 2}
+  - {fileID: 11400000, guid: 726b2774356d2f54782145380a386960, type: 2}
+  - {fileID: 11400000, guid: 7196fd3aa2b10b041bd0da5e0aa7e021, type: 2}
+  - {fileID: 11400000, guid: b3f5feb786d97bd459e185ff90b06247, type: 2}
+  - {fileID: 11400000, guid: b8acb2a61c0647c4b984e12e017dc765, type: 2}
+  - {fileID: 11400000, guid: 05d4a9f035c72ab48b025aa16398fe5d, type: 2}
+  - {fileID: 11400000, guid: e0f5eb3b2a229504aaccf455ffab2d74, type: 2}
+  - {fileID: 11400000, guid: e3bce1886ae2f78409fafdc54045d2c4, type: 2}
+  _projectiles:
+  - {fileID: 11400000, guid: b6fdfd120ccf47c43bf6adb22d653612, type: 2}
+  - {fileID: 11400000, guid: 88a5fc08d0d16654c9dce1d949766a3e, type: 2}
+  - {fileID: 11400000, guid: 142a5cfe48d89c34da15e9328ee2e68c, type: 2}
+  - {fileID: 11400000, guid: 5bb96bea598d8164bb56cc9a6af12187, type: 2}
+  _zones:
+  - {fileID: 11400000, guid: 324c8a6e111b1f946a4ea2b91fecf204, type: 2}
+  - {fileID: 11400000, guid: f94cd60ca8ccee04cb7b8e22e86936fa, type: 2}
+  _scenarios:
+  - {fileID: 11400000, guid: 1bbe0198664edb7459dbf7a1810580aa, type: 2}
+  - {fileID: 11400000, guid: ceb1c5941e5592540b28eb59e432f491, type: 2}
+  - {fileID: 11400000, guid: 01210dcb60febaa448b354271e182e68, type: 2}
+  - {fileID: 11400000, guid: 0643a4c593958354a9a33a813b9f5fc7, type: 2}
+  - {fileID: 11400000, guid: c09386b0f3866174ea191f3b33acb799, type: 2}
+  - {fileID: 11400000, guid: 1ef1ac05a05b00a4cb695c64234e94d6, type: 2}
+  - {fileID: 11400000, guid: 123bd27ec91b764499288ec373a471c5, type: 2}
+  - {fileID: 11400000, guid: 081dcf55730c6824bb9108b941fd0eba, type: 2}
+  - {fileID: 11400000, guid: a0dca9b0f8d160a44993f8df953d0594, type: 2}
+  - {fileID: 11400000, guid: 3d58ae239650f2146a1fa6a54a0c02a1, type: 2}
+  - {fileID: 11400000, guid: 3f70f32a6b2ec5a478815ea575200809, type: 2}
+  - {fileID: 11400000, guid: 548b79809d618f844bdb8ff41abeca5c, type: 2}

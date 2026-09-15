@@ -1,0 +1,59 @@
+{
+  "checks": {
+    "nonzero_geometry": true,
+    "base_triangle_budget": true,
+    "total_triangle_budget": true,
+    "tank_height_expected": true,
+    "ground_contact": true,
+    "turret_height": true,
+    "muzzle_height": true,
+    "muzzle_forward": true,
+    "hit_on_hull": true,
+    "barrel_parent": true,
+    "turret_turn_moves_muzzle": true,
+    "turret_turn_preserves_radius": true,
+    "turret_reset": true,
+    "root_scale": true,
+    "separate_outline_geometry": true,
+    "outline_backface_culling": true
+  },
+  "allPassed": true,
+  "baseTriangles": 1440,
+  "outlineTriangles": 1440,
+  "bounds": {
+    "min": [
+      -1.0860000848770142,
+      -1.2184720039367676,
+      0.0
+    ],
+    "max": [
+      1.0860000848770142,
+      1.6200000047683716,
+      1.7000000476837158
+    ]
+  },
+  "turretPivot": [
+    0.0,
+    0.0,
+    1.0399999618530273
+  ],
+  "muzzle": [
+    0.0,
+    1.625,
+    1.2899999618530273
+  ],
+  "hit": [
+    0.0,
+    0.0,
+    0.6499999761581421
+  ],
+  "materials": [
+    "M_A1_Charcoal",
+    "M_A1_MilkWhite",
+    "M_A1_OffWhite",
+    "M_A1_TeamBlue",
+    "M_A1_WheelGray"
+  ],
+  "meshObjects": 3,
+  "note": "Native Blender geometry/pose validation only. Unity import, runtime and device performance not tested."
+}

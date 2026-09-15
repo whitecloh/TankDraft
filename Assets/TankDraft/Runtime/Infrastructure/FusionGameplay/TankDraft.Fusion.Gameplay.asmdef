@@ -1,0 +1,5 @@
+{
+  "name": "TankDraft.Fusion.Gameplay",
+  "references": ["TankDraft.Fusion.Transport", "TankDraft.Match.ServerClient", "TankDraft.Contracts", "Unity.Newtonsoft.Json", "VContainer"],
+  "autoReferenced": true
+}

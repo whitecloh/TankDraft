@@ -1,0 +1,26 @@
+{
+  "file": "HeavyTank_A1.fbx",
+  "meshCount": 6,
+  "cameraCount": 0,
+  "anchors": {
+    "HeavyTank_A1_Root": true,
+    "TurretRoot": true,
+    "BarrelRecoil": true,
+    "MuzzleAnchor": true,
+    "HitAnchor": true
+  },
+  "bounds": {
+    "min": [
+      -1.1096177101135254,
+      -1.242969274520874,
+      -0.019558517262339592
+    ],
+    "max": [
+      1.1096177101135254,
+      1.6407973766326904,
+      1.7236406803131104
+    ]
+  },
+  "scope": "Blender FBX import smoke only; not Unity acceptance.",
+  "passed": true
+}

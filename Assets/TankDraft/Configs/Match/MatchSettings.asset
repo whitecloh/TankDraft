@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1cc585cec1ff504abbd1c892f0f3eff, type: 3}
+  m_Name: MatchSettings
+  m_EditorClassIdentifier: TankDraft.Match.Content::TankDraft.Match.Content.MatchSettingsAsset
+  _battleCatalog: {fileID: 11400000, guid: 42f2a86bc984b56458e53a5e8af29e85, type: 2}
+  _views: {fileID: 11400000, guid: 6f7a63fc4522caf4ab1d3da92189449d, type: 2}
+  _battlePresentation: {fileID: 11400000, guid: f2f018b39bd6288469e4d55bcea634c1, type: 2}
+  _metaCatalog: {fileID: 11400000, guid: 36c55634771549043a494dbcc985dd6f, type: 2}
+  _profileSettings: {fileID: 11400000, guid: de9e763ded0f0014fac0893a2f2b7ce7, type: 2}
+  _text: {fileID: 11400000, guid: 583525037edc80e4e862b1e0ad7776d9, type: 2}
+  _menuSceneName: MainMenu
+  _matchSceneName: Match
+  _seed: 612
+  _winsRequired: 4
+  _normalChoices: 3
+  _maxUnitsPerType: 12
+  _upgradeHpPercent: 15
+  _upgradeDamagePercent: 12
+  _orderCharges: 3
+  _orderArmorPercent: 25
+  _addWeight: 60
+  _doubleWeight: 28
+  _upgradeWeight: 12
+  _units:
+  - unit: {fileID: 11400000, guid: a7a005801deef584c94e217d37ecb15a, type: 2}
+    addCount: 2
+  - unit: {fileID: 11400000, guid: b8d701f2b5dde9c43baa2162671346bd, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 322a227c61d5fc3419a8bbb89117cdd9, type: 2}
+    addCount: 3
+  - unit: {fileID: 11400000, guid: 7534b5f613296bd4f870a6a44ab9f56c, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 2d086299ab0830d4ebd7569f6d5d98a8, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 6ffda2fafbd255b4986630ad6e02f512, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 83de65ccdcc24474da7b6286f2245d66, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 7e02e9cf94012f247b34c39e85a8387c, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: ee86748062a22d64087447e887d4512f, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 366349f1ced4f954f8292c6c4dc7f131, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 46ced84a32243f141864b4c105f8229c, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: a348ee6fd5882e34790e2212834adf48, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 2abe9f40b921780419308e01787217c9, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 113320e465af275428b2d68f698087a4, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 726b2774356d2f54782145380a386960, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 7196fd3aa2b10b041bd0da5e0aa7e021, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: b3f5feb786d97bd459e185ff90b06247, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: b8acb2a61c0647c4b984e12e017dc765, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: 05d4a9f035c72ab48b025aa16398fe5d, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: e0f5eb3b2a229504aaccf455ffab2d74, type: 2}
+    addCount: 1
+  - unit: {fileID: 11400000, guid: e3bce1886ae2f78409fafdc54045d2c4, type: 2}
+    addCount: 1

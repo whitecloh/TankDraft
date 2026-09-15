@@ -1,0 +1,27 @@
+{
+  "name": "SLVR.UIMotion.Tests.EditMode",
+  "rootNamespace": "SLVR.UIMotion.Tests",
+  "references": [
+    "SLVR.UIMotion.Runtime",
+    "SLVR.UIMotion.Editor",
+    "Unity.ugui",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "DOTween.dll",
+    "nunit.framework.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

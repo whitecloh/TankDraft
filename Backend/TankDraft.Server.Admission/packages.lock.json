@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net10.0": {
+      "Newtonsoft.Json": {
+        "type": "Transitive",
+        "resolved": "13.0.4",
+        "contentHash": "pdgNNMai3zv51W5aq268sujXUyx7SNdE2bj1wZcWjAQrKMFZV260lbqYop1d2GM67JI1huLRwxo9ZqnfF/lC6A=="
+      },
+      "PlayFabAllSDK": {
+        "type": "Transitive",
+        "resolved": "1.229.260805",
+        "contentHash": "Rgp2ZfpteEVM5gLFjJqEfxwJR+pBYFHMuClJ6TtUdM5TMhoRuyHUp5QqJ1KnYAw84caIk3Hs1B1gjGmugAslRA==",
+        "dependencies": {
+          "Polly": "7.2.3"
+        }
+      },
+      "Polly": {
+        "type": "Transitive",
+        "resolved": "7.2.3",
+        "contentHash": "DeCY0OFbNdNxsjntr1gTXHJ5pKUwYzp04Er2LLeN3g6pWhffsGuKVfMBLe1lw7x76HrPkLxKEFxBlpRxS2nDEQ=="
+      },
+      "tankdraft.server.playfab.identity": {
+        "type": "Project",
+        "dependencies": {
+          "Newtonsoft.Json": "[13.0.4, )",
+          "PlayFabAllSDK": "[1.229.260805, )"
+        }
+      },
+      "tankdraft.server.security": {
+        "type": "Project"
+      }
+    }
+  }
+}

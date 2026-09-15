@@ -1,0 +1,218 @@
+[
+  {
+    "id": "arena",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 320,
+    "width": 576,
+    "height": 1280,
+    "path": "References/arena.jpg",
+    "sha256": "d5a510746bb4b093877c022260f551237187279d7b691ab261d58672455b3ae3"
+  },
+  {
+    "id": "shop-packs",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 20,
+    "width": 576,
+    "height": 1280,
+    "path": "References/shop-packs.jpg",
+    "sha256": "d26f8761b941f9c4f8e7adfe7bea7cd0eb913fe798a951245e1ebeb0801d1da5"
+  },
+  {
+    "id": "pack-details",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 25,
+    "width": 576,
+    "height": 1280,
+    "path": "References/pack-details.jpg",
+    "sha256": "ddf1f03bcb39ac0ae3f36816ec8bd57cf4c812a162126a1bae18c5e3dc02ea5d"
+  },
+  {
+    "id": "shop-gems",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 35,
+    "width": 576,
+    "height": 1280,
+    "path": "References/shop-gems.jpg",
+    "sha256": "f3708c9a66b17822965e74088eb73987fde95a8c1911c15011004d8bf19ac7e0"
+  },
+  {
+    "id": "shop-coins",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 40,
+    "width": 576,
+    "height": 1280,
+    "path": "References/shop-coins.jpg",
+    "sha256": "5fe5374644462399e75fe99f1c40b8dc1b6b88e7a8f8019d5dd380a6430c002d"
+  },
+  {
+    "id": "collection-units",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 50,
+    "width": 576,
+    "height": 1280,
+    "path": "References/collection-units.jpg",
+    "sha256": "7e46ed8821adce6f9ca3b81259bebb9551b44184b7274cdab5bbe0128dc9db62"
+  },
+  {
+    "id": "collection-spells",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 285,
+    "width": 576,
+    "height": 1280,
+    "path": "References/collection-spells.jpg",
+    "sha256": "59d80eccf1a02fc9e94a39e01fbdcb1c0d36db6901cf3a4c7a52c59e7000961e"
+  },
+  {
+    "id": "unit-stats",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 100,
+    "width": 576,
+    "height": 1280,
+    "path": "References/unit-stats.jpg",
+    "sha256": "af287f34217eb65f9bc8ea923d8af91703caa837815734e1937e2fcc02603340"
+  },
+  {
+    "id": "unit-locked",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 130,
+    "width": 576,
+    "height": 1280,
+    "path": "References/unit-locked.jpg",
+    "sha256": "6fbdfb14747c8506427dcfcc72059ef5a9a9b3a1a16a683ea429f3695861e312"
+  },
+  {
+    "id": "unit-mastery",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 55,
+    "width": 576,
+    "height": 1280,
+    "path": "References/unit-mastery.jpg",
+    "sha256": "e0dd2b57762342dca7000c2c9b34206057fd076dd79740a8be81998a6040e7fc"
+  },
+  {
+    "id": "spell-stats",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 290,
+    "width": 576,
+    "height": 1280,
+    "path": "References/spell-stats.jpg",
+    "sha256": "08cbee31c8f1487e061b475eef0ab9e9af096a868b270a15fce8a8609572bdad"
+  },
+  {
+    "id": "spell-locked",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 300,
+    "width": 576,
+    "height": 1280,
+    "path": "References/spell-locked.jpg",
+    "sha256": "d537c34931d33d01136464ad9be2a4d7e3f74a8f682bcf5b21701c58d11f53bc"
+  },
+  {
+    "id": "commander",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 265,
+    "width": 576,
+    "height": 1280,
+    "path": "References/commander.jpg",
+    "sha256": "02f143d2f77bb01ec3ef64117639b48e40ffb9848d92513f5f876f29bbce15d7"
+  },
+  {
+    "id": "profile",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 245,
+    "width": 576,
+    "height": 1280,
+    "path": "References/profile.jpg",
+    "sha256": "817d6fb117794cf0b002f8441995b27e845656e6ab6318b4debba976e445238b"
+  },
+  {
+    "id": "customize",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 700,
+    "width": 576,
+    "height": 1280,
+    "path": "References/customize.jpg",
+    "sha256": "7f5c3c0bde53ffe48f6880b668d97ad802c9f5a5cf44ab6091647b6c344c657a"
+  },
+  {
+    "id": "draft",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 345,
+    "width": 576,
+    "height": 1280,
+    "path": "References/draft.jpg",
+    "sha256": "be002bfe67550710926981e562d2df2db49f8aa22b8611f6f79b8cca9dde747c"
+  },
+  {
+    "id": "draft-comeback",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 385,
+    "width": 576,
+    "height": 1280,
+    "path": "References/draft-comeback.jpg",
+    "sha256": "f481d1d88596a7fa171766de49b1e710673c38e3ad538ffb4d1b5992611bc367"
+  },
+  {
+    "id": "battle",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 360,
+    "width": 576,
+    "height": 1280,
+    "path": "References/battle.jpg",
+    "sha256": "1503f98f72aaf3004f33f3c16ac7578d3e6d6b59c63e3a323f885616ce21521a"
+  },
+  {
+    "id": "round-result",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 425,
+    "width": 576,
+    "height": 1280,
+    "path": "References/round-result.jpg",
+    "sha256": "3329ca8ce4cadf4dca636194a62732eef3a4040ed27aa9b127d4751cc9356ca3"
+  },
+  {
+    "id": "victory",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 610,
+    "width": 576,
+    "height": 1280,
+    "path": "References/victory.jpg",
+    "sha256": "292ee0d502bcfb54d8248086eda1e41ecb5381f9d64e2cbd81ade591f903d66a"
+  },
+  {
+    "id": "rewards",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 635,
+    "width": 576,
+    "height": 1280,
+    "path": "References/rewards.jpg",
+    "sha256": "8a5d8610b0e24c700435123914f68ca8ae5916ef2f603b77a185f3971bac680e"
+  },
+  {
+    "id": "rating",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 655,
+    "width": 576,
+    "height": 1280,
+    "path": "References/rating.jpg",
+    "sha256": "586cedf03dca0e68f1ade15a96d350e1c709ddc9d283cb036c743361fbe8789f"
+  },
+  {
+    "id": "rating-rules",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 660,
+    "width": 576,
+    "height": 1280,
+    "path": "References/rating-rules.jpg",
+    "sha256": "97337cc7fac74160e54d9abc2d93762019f3cbd5543062c9989f22c1e69dcb4a"
+  },
+  {
+    "id": "pass",
+    "video": "video_2026-09-12_14-26-11.mp4",
+    "seconds": 675,
+    "width": 576,
+    "height": 1280,
+    "path": "References/pass.jpg",
+    "sha256": "6c80109902ec7c1069b3d0634e683579c67e6c043f625c6d52d832a3e7b3d87f"
+  }
+]

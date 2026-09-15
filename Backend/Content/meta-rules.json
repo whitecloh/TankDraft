@@ -1,0 +1,197 @@
+{
+  "ContentVersion": "fde24d30743519c566b31c00fbbfb36c5d54bbfbd8232d06ecdd9da87f19c5d2",
+  "UnitSlots": 4,
+  "OrderUnlockLevels": [
+    1,
+    20,
+    35
+  ],
+  "Definitions": [
+    {
+      "Id": "unit.mines",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.heavy_tank",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.tank_destroyer",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.field_artillery",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.medium_tank",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.light_raider",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.repair_vehicle",
+      "Kind": 0,
+      "RequiredArena": 4
+    },
+    {
+      "Id": "unit.rocket_artillery",
+      "Kind": 0,
+      "RequiredArena": 4
+    },
+    {
+      "Id": "unit.drone_carrier",
+      "Kind": 0,
+      "RequiredArena": 4
+    },
+    {
+      "Id": "unit.mobile_mortar",
+      "Kind": 0,
+      "RequiredArena": 5
+    },
+    {
+      "Id": "unit.anti_tank_obstacle",
+      "Kind": 0,
+      "RequiredArena": 5
+    },
+    {
+      "Id": "unit.stealth_vehicle",
+      "Kind": 0,
+      "RequiredArena": 5
+    },
+    {
+      "Id": "order.reinforce_armor",
+      "Kind": 1,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "order.repair_team",
+      "Kind": 1,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "order.smoke_screen",
+      "Kind": 1,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "order.artillery_strike",
+      "Kind": 1,
+      "RequiredArena": 3
+    },
+    {
+      "Id": "order.minefield",
+      "Kind": 1,
+      "RequiredArena": 3
+    },
+    {
+      "Id": "order.drone_recon",
+      "Kind": 1,
+      "RequiredArena": 3
+    },
+    {
+      "Id": "order.precision_strike",
+      "Kind": 1,
+      "RequiredArena": 4
+    },
+    {
+      "Id": "order.reinforcements",
+      "Kind": 1,
+      "RequiredArena": 4
+    },
+    {
+      "Id": "order.overdrive",
+      "Kind": 1,
+      "RequiredArena": 4
+    },
+    {
+      "Id": "order.emp",
+      "Kind": 1,
+      "RequiredArena": 5
+    },
+    {
+      "Id": "order.supply_drop",
+      "Kind": 1,
+      "RequiredArena": 5
+    },
+    {
+      "Id": "order.barrage",
+      "Kind": 1,
+      "RequiredArena": 5
+    },
+    {
+      "Id": "unit.engineer_vehicle",
+      "Kind": 0,
+      "RequiredArena": 6
+    },
+    {
+      "Id": "unit.demolition_vehicle",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.chemical_demolition",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.toxin_destroyer",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.shield_vehicle",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.reactive_armor_tank",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.magazine_destroyer",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.recovery_assault",
+      "Kind": 0,
+      "RequiredArena": 1
+    },
+    {
+      "Id": "unit.siege_transformer",
+      "Kind": 0,
+      "RequiredArena": 1
+    }
+  ],
+  "InitialProfile": {
+    "SchemaVersion": 1,
+    "Name": "Командир",
+    "CommanderLevel": 1,
+    "ArenaLevel": 1,
+    "ArenaProgress": 0,
+    "Mastery": 10,
+    "UnitIds": [
+      "unit.mines",
+      "unit.heavy_tank",
+      "unit.tank_destroyer",
+      "unit.field_artillery"
+    ],
+    "OrderIds": [
+      "order.reinforce_armor",
+      "",
+      ""
+    ],
+    "LastOperationId": null,
+    "LastOperationFingerprint": null
+  }
+}

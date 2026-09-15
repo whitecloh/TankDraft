@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup><TargetFramework>net10.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable><TreatWarningsAsErrors>true</TreatWarningsAsErrors><RestorePackagesWithLockFile>true</RestorePackagesWithLockFile></PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../TankDraft.AdmissionHttp/TankDraft.AdmissionHttp.csproj" />
+    <ProjectReference Include="../TankDraft.Server.Match/TankDraft.Server.Match.csproj" />
+    <Content Include="../Content/local-match.json" Link="Content/local-match.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../Content/local-match.sha256" Link="Content/local-match.sha256" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

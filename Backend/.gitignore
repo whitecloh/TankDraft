@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/TestResults/
+**/local.settings.json
+**/appsettings.Local.json
+**/*.user
+**/*.pfx
+**/*.pem
+.env
+artifacts/
+!**/*.csproj

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../TankDraft.Game.Core/TankDraft.Game.Core.csproj" />
+    <ProjectReference Include="../TankDraft.Server.Security/TankDraft.Server.Security.csproj" />
+    <ProjectReference Include="../TankDraft.Server.Match/TankDraft.Server.Match.csproj" />
+    <ProjectReference Include="../TankDraft.Server.Persistence/TankDraft.Server.Persistence.csproj" />
+    <Content Include="../Content/local-match.json" Link="Content/local-match.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../Content/local-match.sha256" Link="Content/local-match.sha256" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../Config/local-host.json" Link="Config/local-host.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../Config/local-persistence.json" Link="Config/local-persistence.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../Config/local-socket.json" Link="Config/local-socket.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../Config/local-tls.json" Link="Config/local-tls.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../Config/local-faults.json" Link="Config/local-faults.json" CopyToOutputDirectory="PreserveNewest" />
+    <Content Include="../Config/local-queue.json" Link="Config/local-queue.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

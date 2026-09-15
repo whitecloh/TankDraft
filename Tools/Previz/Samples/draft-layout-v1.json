@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "screen": "draft",
+  "state": "normal",
+  "viewport": {
+    "width": 576,
+    "height": 1280,
+    "safeTop": 56,
+    "safeBottom": 42
+  },
+  "theme": {
+    "background": "#17232d",
+    "accent": "#e9a83d",
+    "text": "#e9f0f5"
+  },
+  "elements": [
+    {
+      "id": "ebwuleu",
+      "kind": "panel",
+      "label": "ДРАФТ",
+      "x": 28,
+      "y": 68,
+      "width": 520,
+      "height": 72
+    },
+    {
+      "id": "ewo8py0",
+      "kind": "label",
+      "label": "Готово",
+      "x": 28,
+      "y": 151,
+      "width": 520,
+      "height": 31
+    },
+    {
+      "id": "ew6fsa4",
+      "kind": "label",
+      "label": "ИГРОК 0 / 4 · ПРОТИВНИК 0 / 4",
+      "x": 28,
+      "y": 210,
+      "width": 520,
+      "height": 30
+    },
+    {
+      "id": "euewcl8",
+      "kind": "card",
+      "label": "Т-34 · ВЫБРАТЬ 1",
+      "x": 28,
+      "y": 268,
+      "width": 520,
+      "height": 146
+    },
+    {
+      "id": "e1m2xxpx",
+      "kind": "button",
+      "label": "ВЫБРАТЬ",
+      "x": 370,
+      "y": 356,
+      "width": 160,
+      "height": 40
+    },
+    {
+      "id": "e16j81dz",
+      "kind": "card",
+      "label": "СУ-100 · ВЫБРАТЬ 2",
+      "x": 28,
+      "y": 432,
+      "width": 520,
+      "height": 146
+    },
+    {
+      "id": "e1ymkzz",
+      "kind": "button",
+      "label": "ВЫБРАТЬ",
+      "x": 370,
+      "y": 520,
+      "width": 160,
+      "height": 40
+    },
+    {
+      "id": "e1klpfxy",
+      "kind": "card",
+      "label": "М-30 · ВЫБРАТЬ 3",
+      "x": 28,
+      "y": 596,
+      "width": 520,
+      "height": 146
+    },
+    {
+      "id": "e1es4673",
+      "kind": "button",
+      "label": "ВЫБРАТЬ",
+      "x": 370,
+      "y": 684,
+      "width": 160,
+      "height": 40
+    }
+  ]
+}

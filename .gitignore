@@ -112,3 +112,11 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity MCP restored dependencies and generated agent skills
+/Assets/Plugins/NuGet/
+/Assets/Plugins/NuGet.meta
+/.agents/skills/
+/.worktrees/
+
+# Fusion AppId is public and versioned; server credentials remain outside Assets.

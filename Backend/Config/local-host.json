@@ -1,0 +1,18 @@
+{
+  "Mode": "LocalOnly",
+  "ListenUrl": "http://127.0.0.1:18781",
+  "MaxRequestBodyBytes": 8192,
+  "MaxConcurrentConnections": 8,
+  "RequestsPerWindow": 120,
+  "RateWindowSeconds": 60,
+  "SessionTtlSeconds": 600,
+  "MaxSessionCount": 4,
+  "MaxCommandReceipts": 512,
+  "MaxSimulationTicksPerRound": 10000,
+  "DraftChoiceSeconds": 5,
+  "RoundResultSeconds": 2,
+  "SchedulerPollMilliseconds": 20,
+  "MaxStepsPerPump": 256,
+  "EventCapacity": 1024,
+  "JournalCapacity": 256
+}

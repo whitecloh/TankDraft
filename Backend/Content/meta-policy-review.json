@@ -1,0 +1,50 @@
+{
+  "TitleId": "B16D9",
+  "Apply": false,
+  "ExpectedPolicyVersion": 13,
+  "PreserveExistingStatements": true,
+  "AddStatements": [
+    {
+      "Resource": "pfrn:api--/Object/SetObjects",
+      "Action": "*",
+      "Effect": "Deny",
+      "Principal": "{\"title_player_account\":\"*\"}",
+      "Comment": "TankDraft R3.1 server-owned profile and inventory"
+    },
+    {
+      "Resource": "pfrn:api--/Profile/SetProfilePolicy",
+      "Action": "*",
+      "Effect": "Deny",
+      "Principal": "{\"title_player_account\":\"*\"}",
+      "Comment": "TankDraft R3.1 server-owned profile and inventory"
+    },
+    {
+      "Resource": "pfrn:api--/Inventory/*",
+      "Action": "*",
+      "Effect": "Deny",
+      "Principal": "{\"title_player_account\":\"*\"}",
+      "Comment": "TankDraft R3.1 server-owned profile and inventory"
+    },
+    {
+      "Resource": "pfrn:api--/Object/SetObjects",
+      "Action": "*",
+      "Effect": "Deny",
+      "Principal": "{\"master_player_account\":\"*\"}",
+      "Comment": "TankDraft R3.1 server-owned profile and inventory"
+    },
+    {
+      "Resource": "pfrn:api--/Profile/SetProfilePolicy",
+      "Action": "*",
+      "Effect": "Deny",
+      "Principal": "{\"master_player_account\":\"*\"}",
+      "Comment": "TankDraft R3.1 server-owned profile and inventory"
+    },
+    {
+      "Resource": "pfrn:api--/Inventory/*",
+      "Action": "*",
+      "Effect": "Deny",
+      "Principal": "{\"master_player_account\":\"*\"}",
+      "Comment": "TankDraft R3.1 server-owned profile and inventory"
+    }
+  ]
+}

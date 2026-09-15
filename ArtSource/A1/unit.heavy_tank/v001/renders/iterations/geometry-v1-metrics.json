@@ -1,0 +1,44 @@
+{
+  "asset": "unit.heavy_tank",
+  "reference": "U:\\UNITY_PROJECTS\\TankDraft\\ArtSource\\A1\\unit.heavy_tank\\v001\\reference\\canonical.png",
+  "axisConvention": "Z-up, forward +Y",
+  "targets": {
+    "baseTrianglesMax": 2000,
+    "outlineTotalTrianglesMax": 4000
+  },
+  "actual": {
+    "baseTriangles": 1356,
+    "outlineTriangles": 1356,
+    "totalTriangles": 2712,
+    "meshCount": 54,
+    "materialCount": 6,
+    "materials": [
+      "milk",
+      "offwhite",
+      "charcoal",
+      "gray",
+      "blue",
+      "M_A1_OutlineBlackEmission"
+    ],
+    "renderer": "BLENDER_EEVEE",
+    "baseWithinTarget": true,
+    "totalWithinOutlineTarget": true
+  },
+  "outline": {
+    "exported": true,
+    "collection": "OUTLINE_HeavyTank_A1",
+    "method": "single inverted mesh shell, vertex normals offset 0.015, black emission material with backface culling",
+    "freestyleFallbackUsed": false
+  },
+  "exports": {
+    "fbx": "U:\\UNITY_PROJECTS\\TankDraft\\ArtSource\\A1\\unit.heavy_tank\\v001\\export\\HeavyTank_A1.fbx",
+    "glb": "U:\\UNITY_PROJECTS\\TankDraft\\ArtSource\\A1\\unit.heavy_tank\\v001\\export\\HeavyTank_A1.glb",
+    "fbxAxis": {
+      "forward": "-Z",
+      "up": "Y",
+      "applyUnit": true
+    },
+    "verification": "not run by builder script; import verification remains required"
+  },
+  "renders": "requested"
+}

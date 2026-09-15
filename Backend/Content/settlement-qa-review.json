@@ -1,0 +1,10 @@
+{
+  "Mode": "LegacyTestRewards",
+  "Policy": {
+    "Version": "qa-r32-v1",
+    "Currency": "CO",
+    "WinAmount": 1,
+    "LossAmount": 1,
+    "MaximumGrantsPerAccount": 10
+  }
+}

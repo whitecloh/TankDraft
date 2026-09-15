@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b68924f5175597346b178c26eb54822d, type: 3}
+  m_Name: Unit_RepairVehicle
+  m_EditorClassIdentifier: TankDraft.Battle.Content::TankDraft.BattleContent.BattleUnitAsset
+  _content: {fileID: 11400000, guid: b34a76e4e4b39f243b5a1fae4592d2ea, type: 2}
+  _attack: 1
+  _maxHp: 112
+  _damage: 16
+  _moveSpeed: 0.92
+  _radius: 0.33
+  _mass: 1.9
+  _range: 2.4
+  _cooldownSeconds: 1.12
+  _projectile: {fileID: 11400000, guid: b6fdfd120ccf47c43bf6adb22d653612, type: 2}
+  _abilityKind: 2
+  _abilityIntervalSeconds: 3
+  _abilityRadius: 2.45
+  _abilityAmount: 18
+  _spawnUnit: {fileID: 0}
+  _spawnLifetimeSeconds: 0
+  _spawnDamagePercent: 0
+  _contactZone: {fileID: 0}
+  _dotTotalDamagePercent: 0
+  _dotPeriodSeconds: 1
+  _dotTickCount: 3
+  _shieldCapacityHpPercent: 0
+  _shieldIntervalSeconds: 4
+  _shieldRadius: 3
+  _shieldLifetimeSeconds: 3.5
+  _blocksFirstHit: 0
+  _magazineShots: 0
+  _magazineReloadSeconds: 3
+  _lifeStealPercent: 0
+  _formationPriority: 200

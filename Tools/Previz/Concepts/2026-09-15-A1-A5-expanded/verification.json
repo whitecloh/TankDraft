@@ -1,0 +1,22 @@
+{
+  "screens": 54,
+  "comparisons": 27,
+  "sheets": 6,
+  "objectsPerStyle": 33,
+  "rosterStatus": {
+    "authored": 16,
+    "child": 2,
+    "proposed": 15
+  },
+  "screenSize": [
+    623,
+    1254
+  ],
+  "sheetSize": [
+    1448,
+    1086
+  ],
+  "allSheetsTransparent": true,
+  "sourceCopiesEqual": 31,
+  "missing": 0
+}

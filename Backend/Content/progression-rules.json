@@ -1,0 +1,398 @@
+{
+  "Version": "reference-progression-qa-v1",
+  "BalanceStatus": "Observed flow; missing numeric values temporary, approved 2026-09-15. Mastery thresholds interpreted cumulative. Existing QA coin settlement remains1CO until separate policy activation.",
+  "Units": [
+    {
+      "Id": "unit.mines",
+      "Rarity": "Common",
+      "Arena": 1
+    },
+    {
+      "Id": "unit.heavy_tank",
+      "Rarity": "Rare",
+      "Arena": 1
+    },
+    {
+      "Id": "unit.tank_destroyer",
+      "Rarity": "Common",
+      "Arena": 1
+    },
+    {
+      "Id": "unit.field_artillery",
+      "Rarity": "Epic",
+      "Arena": 1
+    },
+    {
+      "Id": "unit.medium_tank",
+      "Rarity": "Common",
+      "Arena": 1
+    },
+    {
+      "Id": "unit.light_raider",
+      "Rarity": "Rare",
+      "Arena": 1
+    },
+    {
+      "Id": "unit.repair_vehicle",
+      "Rarity": "Common",
+      "Arena": 4
+    },
+    {
+      "Id": "unit.rocket_artillery",
+      "Rarity": "Common",
+      "Arena": 4
+    },
+    {
+      "Id": "unit.drone_carrier",
+      "Rarity": "Epic",
+      "Arena": 4
+    },
+    {
+      "Id": "unit.mobile_mortar",
+      "Rarity": "Common",
+      "Arena": 5
+    },
+    {
+      "Id": "unit.anti_tank_obstacle",
+      "Rarity": "Common",
+      "Arena": 5
+    },
+    {
+      "Id": "unit.stealth_vehicle",
+      "Rarity": "Epic",
+      "Arena": 5
+    }
+  ],
+  "Levels": [
+    {
+      "FromLevel": 1,
+      "BitsCost": 10,
+      "CoinsCost": 50,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 2,
+      "BitsCost": 20,
+      "CoinsCost": 100,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 3,
+      "BitsCost": 30,
+      "CoinsCost": 200,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 4,
+      "BitsCost": 50,
+      "CoinsCost": 300,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 5,
+      "BitsCost": 50,
+      "CoinsCost": 500,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 6,
+      "BitsCost": 50,
+      "CoinsCost": 800,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 7,
+      "BitsCost": 75,
+      "CoinsCost": 1200,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 8,
+      "BitsCost": 100,
+      "CoinsCost": 1800,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 9,
+      "BitsCost": 150,
+      "CoinsCost": 2500,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 10,
+      "BitsCost": 200,
+      "CoinsCost": 3500,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 11,
+      "BitsCost": 250,
+      "CoinsCost": 5000,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 12,
+      "BitsCost": 300,
+      "CoinsCost": 7000,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 13,
+      "BitsCost": 400,
+      "CoinsCost": 10000,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    },
+    {
+      "FromLevel": 14,
+      "BitsCost": 500,
+      "CoinsCost": 15000,
+      "HpPermille": 100,
+      "DamagePermille": 100
+    }
+  ],
+  "Mastery": [
+    {
+      "Level": 1,
+      "CumulativeXp": 0,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 2,
+      "CumulativeXp": 30,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 500,
+      "UnlocksFormation": true
+    },
+    {
+      "Level": 3,
+      "CumulativeXp": 60,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 4,
+      "CumulativeXp": 150,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": true
+    },
+    {
+      "Level": 5,
+      "CumulativeXp": 300,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 6,
+      "CumulativeXp": 500,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 100,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 7,
+      "CumulativeXp": 750,
+      "RewardKind": 0,
+      "RewardAmount": 100,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 8,
+      "CumulativeXp": 1000,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 9,
+      "CumulativeXp": 1500,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 0,
+      "DamagePermille": 100,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 10,
+      "CumulativeXp": 2000,
+      "RewardKind": 0,
+      "RewardAmount": 200,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 11,
+      "CumulativeXp": 3000,
+      "RewardKind": 1,
+      "RewardAmount": 2500,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 12,
+      "CumulativeXp": 4000,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 100,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 13,
+      "CumulativeXp": 6000,
+      "RewardKind": 0,
+      "RewardAmount": 500,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 14,
+      "CumulativeXp": 8000,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 0,
+      "DamagePermille": 0,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    },
+    {
+      "Level": 15,
+      "CumulativeXp": 10000,
+      "RewardKind": 3,
+      "RewardAmount": 0,
+      "HpPermille": 0,
+      "DamagePermille": 100,
+      "AttackSpeedPermille": 0,
+      "UnlocksFormation": false
+    }
+  ],
+  "WinXp": 10,
+  "LossXp": 5,
+  "BoostChipCost": 1,
+  "BoostXp": 10,
+  "MasteryCosts": {
+    "2": 15,
+    "3": 30,
+    "4": 45,
+    "5": 60,
+    "6": 75,
+    "7": 90,
+    "8": 105,
+    "9": 120,
+    "10": 135,
+    "11": 150,
+    "12": 165,
+    "13": 180,
+    "14": 195,
+    "15": 210
+  },
+  "Offers": [
+    {
+      "Sku": "bits.mines",
+      "Currency": "CO",
+      "Price": 1700,
+      "UnitId": "unit.mines",
+      "Bits": 11,
+      "PackId": null
+    },
+    {
+      "Sku": "bits.heavy_tank",
+      "Currency": "CO",
+      "Price": 2000,
+      "UnitId": "unit.heavy_tank",
+      "Bits": 5,
+      "PackId": null
+    },
+    {
+      "Sku": "bits.tank_destroyer",
+      "Currency": "CO",
+      "Price": 1700,
+      "UnitId": "unit.tank_destroyer",
+      "Bits": 11,
+      "PackId": null
+    },
+    {
+      "Sku": "pack.silver",
+      "Currency": "GM",
+      "Price": 100,
+      "UnitId": "",
+      "Bits": 0,
+      "PackId": "silver"
+    }
+  ],
+  "Packs": [
+    {
+      "Id": "silver",
+      "DrawCount": 3,
+      "Rarities": [
+        {
+          "Rarity": "Common",
+          "Weight": 64,
+          "MinBits": 10,
+          "MaxBits": 11
+        },
+        {
+          "Rarity": "Rare",
+          "Weight": 25,
+          "MinBits": 10,
+          "MaxBits": 11
+        },
+        {
+          "Rarity": "Epic",
+          "Weight": 11,
+          "MinBits": 5,
+          "MaxBits": 6
+        }
+      ]
+    }
+  ]
+}

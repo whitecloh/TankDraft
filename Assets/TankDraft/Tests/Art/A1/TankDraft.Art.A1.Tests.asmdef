@@ -1,0 +1,21 @@
+{
+  "name": "TankDraft.Art.A1.Tests",
+  "rootNamespace": "TankDraft.Art.A1.Tests",
+  "references": [
+    "TankDraft.Art.A1"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

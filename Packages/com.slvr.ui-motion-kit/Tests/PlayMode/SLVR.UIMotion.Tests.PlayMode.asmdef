@@ -1,0 +1,24 @@
+{
+  "name": "SLVR.UIMotion.Tests.PlayMode",
+  "rootNamespace": "SLVR.UIMotion.Tests",
+  "references": [
+    "SLVR.UIMotion.Runtime",
+    "Unity.ugui",
+    "Unity.TextMeshPro"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [
+    "DOTween.dll",
+    "nunit.framework.dll"
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

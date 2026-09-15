@@ -1,0 +1,12 @@
+{
+  "Mode": "LocalOnly",
+  "ListenUrl": "https://127.0.0.1:18783",
+  "Protocol": "tankdraft-server-v2",
+  "AccessTtlSeconds": 30,
+  "RefreshMarginSeconds": 5,
+  "GrantTtlSeconds": 900,
+  "MaxRequestBytes": 8192,
+  "MaxResponseBytes": 1048576,
+  "TimeoutSeconds": 5,
+  "MaxConnections": 4
+}

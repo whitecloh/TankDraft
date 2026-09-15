@@ -1,0 +1,5 @@
+{
+  "name": "TankDraft.Match.ServerClient",
+  "references": ["TankDraft.Contracts", "TankDraft.Match.Domain", "TankDraft.Match.Content", "TankDraft.Match.Presentation", "TankDraft.Content", "TankDraft.Battle.Content", "TankDraft.Battle.Presentation", "Unity.Newtonsoft.Json", "VContainer", "Vareiko.Foundation.UI"],
+  "autoReferenced": true
+}

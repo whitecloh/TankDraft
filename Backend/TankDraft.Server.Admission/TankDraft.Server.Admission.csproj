@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../TankDraft.Server.PlayFab.Identity/TankDraft.Server.PlayFab.Identity.csproj" />
+    <ProjectReference Include="../TankDraft.Server.Security/TankDraft.Server.Security.csproj" />
+  </ItemGroup>
+</Project>

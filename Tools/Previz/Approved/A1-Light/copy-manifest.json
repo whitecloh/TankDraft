@@ -1,0 +1,162 @@
+{
+  "approvedStyle": "A1-Light",
+  "approvedByOwner": "2026-09-15",
+  "files": [
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\arena.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\arena.png",
+      "sha256": "f68cc52461c12e179fba55607dc1875f2e3339a590f50cec8bf62ec487e2f9b8"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\battle.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\battle.png",
+      "sha256": "00c9ca1d821ded58040394729fdcec622d779568fb20fbae2b1f1367f4e20dd6"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\collection-spells.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\collection-spells.png",
+      "sha256": "3536657ea87c3ef406489c865201592f6a1109c2692e054e21b597c2f22940ec"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\collection-units.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\collection-units.png",
+      "sha256": "19590edc8df5ce3a338121fc4a02b83386c70ed7a1fbe9c9165755960bcae55c"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\commander.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\commander.png",
+      "sha256": "a05d94ce4d6f6339dae4c1b033b13ef05d7a62283ccadbb79dad78f10e27eac6"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\customize.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\customize.png",
+      "sha256": "8b4d8f28938b73bc0ef4f8184282e5ad844d995e6544bcf4ae0d5e2d7a2b58ec"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\defeat.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\defeat.png",
+      "sha256": "056476188d9d5ed1d2dee14f781119982b86031cb6c174732e395f0695cce676"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\draft-comeback.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\draft-comeback.png",
+      "sha256": "b781c0f8c5e6610d6bacc58107ce59388f33a68ef31dc84e650eb6b4b061a4ad"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\draft.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\draft.png",
+      "sha256": "8220b1eaa2d69add1117443062413fc404781bbab81cbd1388c6108f6b1ae5ce"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\matchmaking.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\matchmaking.png",
+      "sha256": "339f8b5c9295d3a41536c502082545b6b796c3f04d90cd861fe19b7dd68df4b3"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\pack-details.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\pack-details.png",
+      "sha256": "892cc1c9316ec9f07b9a704f3d0c93e7581e7c4951dfc022557a1d2be4c7e00a"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\pass.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\pass.png",
+      "sha256": "eb9a5f6f361d8f533fda389e230e289c27272f5c95cb8d5cfaed7be46ef2d957"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\profile.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\profile.png",
+      "sha256": "075354e66832f7d7f4c892a19afbca6d4e1ab3733a4339cb6bca5263cbfbf4f0"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\rating-rules.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\rating-rules.png",
+      "sha256": "029753a24e89ea0e03263f56540f1e17a2268cfbe613c40a37eb1a5431c86aa2"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\rating.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\rating.png",
+      "sha256": "126898c0208a69fd309730478ec6800980522a88e928c44585c434ae87adb5b7"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\rewards.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\rewards.png",
+      "sha256": "780a6eec6d8b5d6ca888203e4c48d0c68f188918d5b7069fb4fa66cc7e500c54"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\round-result.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\round-result.png",
+      "sha256": "f7a696146f5328960ff78b58f9302ac562178be7a35c568f93fcd7658b5a35d4"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\settings.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\settings.png",
+      "sha256": "29b7989bfdc8fc6073210cf1a5ef8dbb15c3b673ca035948ba4d8a73fa6bdc92"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\shop-coins.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\shop-coins.png",
+      "sha256": "1086032aacfd28c8082a55ed467eb5a59c800c2285a0b196fa81915b103601b7"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\shop-gems.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\shop-gems.png",
+      "sha256": "066f599de39409e8fe1d533f92664506d839e0654e6319cff2a508ef0fdb7087"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\shop-packs.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\shop-packs.png",
+      "sha256": "24642ad60ee5e0385486fc7f8e3095ae92adb549effead12914e5e6df81153ac"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\spell-locked.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\spell-locked.png",
+      "sha256": "2b966661f78b12e5d7dfffc0d0a7e7c3b07c6601339312f097f9f1fced29ea2a"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\spell-stats.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\spell-stats.png",
+      "sha256": "5f88e359ccf6f4a2bc280d2fc43964c12030e6ae416fc881c6fa8b0034bc2509"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\unit-locked.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\unit-locked.png",
+      "sha256": "90ec458ad849b52c24e1e36434619e97f7ff62407d1423c7ce9e601dd625e808"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\unit-mastery.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\unit-mastery.png",
+      "sha256": "3854a19144676ab72153ac893371c7f26915222cac541a0d06706c20196d4d4f"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\unit-stats.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\unit-stats.png",
+      "sha256": "ddb0651ee6902fe03e91263b3869544c8c95537e022f898202b129b332ebf3bd"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\screens\\victory.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\screens\\victory.png",
+      "sha256": "8df46d246c32714c1dfdacf2a64eca293d822058d25e0201ee4fe28ce3b012aa"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\sprites\\sheet-1.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\technique-reference\\sheet-1.png",
+      "sha256": "ff6256b52b96c90481b23a875acd7d221284935aa4b2ebe15be87a8fffbff5e6"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\sprites\\sheet-2.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\technique-reference\\sheet-2.png",
+      "sha256": "b5ef75608cce395f0834f2dfd88072dc2ede9d939e403c63e526caa346ab45a8"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-A1-A5-expanded\\A1\\sprites\\sheet-3.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\technique-reference\\sheet-3.png",
+      "sha256": "91c4f58f9db329ad6563d747d680838ed54fdbc268d27198c42aa47dde242faa"
+    },
+    {
+      "source": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Concepts\\2026-09-15-owner-references\\A1-menu-battle.png",
+      "destination": "U:\\UNITY_PROJECTS\\TankDraft\\Tools\\Previz\\Approved\\A1-Light\\style-reference.png",
+      "sha256": "bdb629d0b8c33bd641fe9ba18d2932209068b1fcf5cb2be60673e11a632f349b"
+    }
+  ]
+}
+

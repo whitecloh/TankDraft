@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22fe48922a32349489ee9818a88c97c8, type: 3}
+  m_Name: BattleViewCatalog
+  m_EditorClassIdentifier: TankDraft.Battle.Presentation::TankDraft.BattlePresentation.BattleViewCatalogAsset
+  _entries:
+  - definitionId: unit.mines
+    kind: 0
+    prefab: {fileID: 5812193415800280294, guid: 6743b6ec84f98a847b976050fe0d4971, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.heavy_tank
+    kind: 0
+    prefab: {fileID: 6266835350390889639, guid: cc4f39161aa4787458687d4e71d848b2, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.tank_destroyer
+    kind: 0
+    prefab: {fileID: 1327909403098554522, guid: fb5c5ef1a76a2bc4e96d00c3f27547fc, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.field_artillery
+    kind: 0
+    prefab: {fileID: 697359359015400545, guid: 983f2a6e556b0ec4698d83f5e0f8b9d6, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: projectile.shell
+    kind: 1
+    prefab: {fileID: 3342562735707738363, guid: 0da430bf2846051428bf6cc74637fe76, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: projectile.dart
+    kind: 1
+    prefab: {fileID: 9056615990563827564, guid: 666d3c79060c8f04fbf75d825f59dc44, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: projectile.mortar
+    kind: 1
+    prefab: {fileID: 9062091998235750660, guid: 5dd606c7692ebcc478c82c04aa5a38b6, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: zone.burning
+    kind: 2
+    prefab: {fileID: 1078152430623951330, guid: 27c89135436f668488c56b48238a6c87, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.anti_tank_obstacle
+    kind: 0
+    prefab: {fileID: 5812193415800280294, guid: a6398680cb5e77c45a0362087776c0ef, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.medium_tank
+    kind: 0
+    prefab: {fileID: 5021205459332310274, guid: b0ac1baab5062a84b8f91a2fbe14ee42, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.light_raider
+    kind: 0
+    prefab: {fileID: 1327909403098554522, guid: be851857a28b2bf4f906ee9efcb7fb4e, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.mobile_mortar
+    kind: 0
+    prefab: {fileID: 697359359015400545, guid: 1c52010d819c1b14b830c5c39fecc388, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.rocket_artillery
+    kind: 0
+    prefab: {fileID: 697359359015400545, guid: 8e702412cd5262640824a4a0346ef5d4, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.stealth_vehicle
+    kind: 0
+    prefab: {fileID: 1327909403098554522, guid: d95f6a97961b7e148bcd3a547e5a0381, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.repair_vehicle
+    kind: 0
+    prefab: {fileID: 5021205459332310274, guid: 3c26309b174b8e644b74108b35addbfa, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.drone_carrier
+    kind: 0
+    prefab: {fileID: 697359359015400545, guid: 2a5b8abc3c989db4bb266729b86176be, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.engineer_vehicle
+    kind: 0
+    prefab: {fileID: 5021205459332310274, guid: 743894d62f18f9b40b73b1a98bedd79a, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.drone_scout
+    kind: 0
+    prefab: {fileID: 1327909403098554522, guid: da0c2cdf4b899d84691d1e3cb4fd9007, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.sentry_turret
+    kind: 0
+    prefab: {fileID: 5812193415800280294, guid: 61d2d92b6c5852b4a929e62cc3f53edf, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.demolition_vehicle
+    kind: 0
+    prefab: {fileID: 5021205459332310274, guid: 04c08a72932297248ba98ea6f87177c8, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.chemical_demolition
+    kind: 0
+    prefab: {fileID: 5021205459332310274, guid: a2fdd9dfd80e30f41a6c62c3d4c0fa91, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.toxin_destroyer
+    kind: 0
+    prefab: {fileID: 1327909403098554522, guid: 05b1dcb713b27924fbabb22a100211c6, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: zone.toxic
+    kind: 2
+    prefab: {fileID: 1078152430623951330, guid: b06876c494c5f144d960c4cdcfab221c, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.shield_vehicle
+    kind: 0
+    prefab: {fileID: 697359359015400545, guid: 2564eb57e00bea24e90c81ea9868cb04, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.reactive_armor_tank
+    kind: 0
+    prefab: {fileID: 5021205459332310274, guid: 6271759ae9543d044807605e7e0a2743, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.magazine_destroyer
+    kind: 0
+    prefab: {fileID: 1327909403098554522, guid: a66e9b26e5e2a3e44a3a6dcce44c0c08, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.recovery_assault
+    kind: 0
+    prefab: {fileID: 5021205459332310274, guid: b6a7f73edfcc0714289dca8748dd493f, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  - definitionId: unit.siege_transformer
+    kind: 0
+    prefab: {fileID: 5021205459332310274, guid: afb7a733b427fd3458f2b4d2c64cfd30, type: 3}
+    visualScale: 1
+    transformedVisualScale: 1.5
+    visualOffset: {x: 0, y: 0}
+  - definitionId: projectile.drone
+    kind: 1
+    prefab: {fileID: 9056615990563827564, guid: 666d3c79060c8f04fbf75d825f59dc44, type: 3}
+    visualScale: 1.6
+    transformedVisualScale: 1
+    visualOffset: {x: 0, y: 0}
+  _impactPrefab: {fileID: 2808435190801044000, guid: 7aea265d0bf09b54cb59215bd4ed358f, type: 3}
+  _deathPrefab: {fileID: 1209292097937434321, guid: 1832d56dbb7cefe44a6f2132e7278eed, type: 3}

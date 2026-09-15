@@ -1,0 +1,18 @@
+{
+  "name": "TankDraft.Bootstrap",
+  "references": [
+    "VContainer",
+    "Vareiko.Foundation.UI",
+    "TankDraft.Contracts",
+    "TankDraft.Application",
+    "TankDraft.Content",
+    "TankDraft.Presentation",
+    "TankDraft.Infrastructure",
+    "TankDraft.Match.Content",
+    "TankDraft.Match.Bootstrap",
+    "TankDraft.Match.ServerClient",
+    "TankDraft.Fusion.Gameplay"
+  ],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

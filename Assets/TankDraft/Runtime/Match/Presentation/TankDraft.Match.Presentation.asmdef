@@ -1,0 +1,6 @@
+{
+  "name": "TankDraft.Match.Presentation",
+  "references": ["Vareiko.Foundation.UI", "Unity.ugui", "Unity.TextMeshPro"],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

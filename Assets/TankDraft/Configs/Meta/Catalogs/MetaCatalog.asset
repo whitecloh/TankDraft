@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 318dfd9712b64a341a21c79face11aa0, type: 3}
+  m_Name: MetaCatalog
+  m_EditorClassIdentifier: TankDraft.Content::TankDraft.Content.MetaCatalogAsset
+  _entries:
+  - {fileID: 11400000, guid: 3fdd5f9da9bb00749a459e0eab162433, type: 2}
+  - {fileID: 11400000, guid: ba720f7e047e0834488f62442815e3cb, type: 2}
+  - {fileID: 11400000, guid: 9eee82b2adaa6bd4c92a800d572fdb56, type: 2}
+  - {fileID: 11400000, guid: 3e739750496ab2d42ae5cbe4114102fd, type: 2}
+  - {fileID: 11400000, guid: e0986bcf64858644283226b3f5ddf9c7, type: 2}
+  - {fileID: 11400000, guid: 903cc23b4a13c1b47a440a14cf42f88b, type: 2}
+  - {fileID: 11400000, guid: b34a76e4e4b39f243b5a1fae4592d2ea, type: 2}
+  - {fileID: 11400000, guid: 7f00d71106a031449a21936509a37857, type: 2}
+  - {fileID: 11400000, guid: f09aaf2cbba3eb347b6183c1d67eebd2, type: 2}
+  - {fileID: 11400000, guid: cac4f7ca2c0c9394daf1bafdbaa06235, type: 2}
+  - {fileID: 11400000, guid: afe4c3959545e254c86e07b6f711f8b6, type: 2}
+  - {fileID: 11400000, guid: 1021ecb64af2c25408b6a3a1c49717fd, type: 2}
+  - {fileID: 11400000, guid: e8b48cd35bd08d746ad11cc332432c0a, type: 2}
+  - {fileID: 11400000, guid: 11a2ddc48ccafa04f9e63cef010cf94e, type: 2}
+  - {fileID: 11400000, guid: ad84b8d1477f94245bb13e7bb9fdc5da, type: 2}
+  - {fileID: 11400000, guid: 32a06a36d810d2e4d87946cdc2b225d0, type: 2}
+  - {fileID: 11400000, guid: ac3549e8d3966ca4b86c297fcfe94621, type: 2}
+  - {fileID: 11400000, guid: 890c491e90a6c2447a0c55c73b29ab9d, type: 2}
+  - {fileID: 11400000, guid: 8d2ca119340369143ab40e5e1457e8d6, type: 2}
+  - {fileID: 11400000, guid: 7ca2ccd845872a546b7f99fe48806d0a, type: 2}
+  - {fileID: 11400000, guid: e2016b4577b266e40a7a1b35c01efb1c, type: 2}
+  - {fileID: 11400000, guid: 339fe2f5b7bce86498b12380c6c10c2a, type: 2}
+  - {fileID: 11400000, guid: 942c4051c94620a4a810bea26279c642, type: 2}
+  - {fileID: 11400000, guid: babb59012bfe03c438a3632dac303b6e, type: 2}
+  - {fileID: 11400000, guid: 1103b2f3aad9db047804d242bb0ec476, type: 2}
+  - {fileID: 11400000, guid: d9fd6b86185caef40b2af8f888540324, type: 2}
+  - {fileID: 11400000, guid: 0bd6a38298c21ef4f8b2b246ef3e2cc6, type: 2}
+  - {fileID: 11400000, guid: 82dd6497a944ded448f0353acd4794e4, type: 2}
+  - {fileID: 11400000, guid: 5cade70e48ffb004e883247d23db0f0a, type: 2}
+  - {fileID: 11400000, guid: 7b085221bd384e44ea0144ae7dace40c, type: 2}
+  - {fileID: 11400000, guid: 9a083d9c681afd04e902e4654011ee9e, type: 2}
+  - {fileID: 11400000, guid: 2b6049f9ba72b0548acc1786da8a5f1c, type: 2}
+  - {fileID: 11400000, guid: 5a560dbced776074392af436d604c274, type: 2}
+  _armyRules: {fileID: 11400000, guid: ff62c2a7316ed8c4c85d069a828eb928, type: 2}
+  _newProfile: {fileID: 11400000, guid: 5694f7018f6f8f145ba8b9bcd8bddeff, type: 2}
+  _uiText: {fileID: 11400000, guid: 06b6c865c9d0d52498e212f43286bf13, type: 2}
+  _currencyIcons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _arenaTarget: 200
+  _resultRefreshMilliseconds: 2000
+  _resultRefreshAttempts: 3
+  _progressionRules: {fileID: 4900000, guid: ddf6c16595b8f17448aeaa085176884e, type: 3}

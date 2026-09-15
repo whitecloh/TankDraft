@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d6bba787de3c51439a565c6fe6ff2a8, type: 3}
+  m_Name: Scenario_ReferenceRoster
+  m_EditorClassIdentifier: TankDraft.Battle.Content::TankDraft.BattleContent.BattleScenarioAsset
+  _id: scenario.reference_roster
+  _title: Reference roster
+  _seed: 5314
+  _stacks:
+  - side: 0
+    unit: {fileID: 11400000, guid: 6ffda2fafbd255b4986630ad6e02f512, type: 2}
+    count: 1
+  - side: 0
+    unit: {fileID: 11400000, guid: 366349f1ced4f954f8292c6c4dc7f131, type: 2}
+    count: 2
+  - side: 0
+    unit: {fileID: 11400000, guid: 46ced84a32243f141864b4c105f8229c, type: 2}
+    count: 1
+  - side: 0
+    unit: {fileID: 11400000, guid: a348ee6fd5882e34790e2212834adf48, type: 2}
+    count: 2
+  - side: 1
+    unit: {fileID: 11400000, guid: 6ffda2fafbd255b4986630ad6e02f512, type: 2}
+    count: 1
+  - side: 1
+    unit: {fileID: 11400000, guid: 366349f1ced4f954f8292c6c4dc7f131, type: 2}
+    count: 2
+  - side: 1
+    unit: {fileID: 11400000, guid: 46ced84a32243f141864b4c105f8229c, type: 2}
+    count: 1
+  - side: 1
+    unit: {fileID: 11400000, guid: a348ee6fd5882e34790e2212834adf48, type: 2}
+    count: 2

@@ -1,0 +1,5 @@
+{
+  "name": "TankDraft.Match.Bootstrap",
+  "references": ["TankDraft.Contracts", "TankDraft.Application", "TankDraft.Content", "TankDraft.Infrastructure", "TankDraft.Match.Domain", "TankDraft.Match.Content", "TankDraft.Match.Presentation", "TankDraft.Battle.Content", "TankDraft.Battle.Presentation", "TankDraft.Simulation", "VContainer", "Vareiko.Foundation.UI"],
+  "autoReferenced": true
+}

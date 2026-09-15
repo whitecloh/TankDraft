@@ -1,0 +1,13 @@
+{
+  "name": "TankDraft.Match.Network.Core",
+  "references": ["TankDraft.Contracts", "TankDraft.Match.Domain", "TankDraft.Simulation"],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

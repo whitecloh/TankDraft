@@ -1,0 +1,1133 @@
+[
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/arena.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "f68cc52461c12e179fba55607dc1875f2e3339a590f50cec8bf62ec487e2f9b8"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/battle.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "00c9ca1d821ded58040394729fdcec622d779568fb20fbae2b1f1367f4e20dd6"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/collection-spells.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "3536657ea87c3ef406489c865201592f6a1109c2692e054e21b597c2f22940ec"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/collection-units.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "19590edc8df5ce3a338121fc4a02b83386c70ed7a1fbe9c9165755960bcae55c"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/commander.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "a05d94ce4d6f6339dae4c1b033b13ef05d7a62283ccadbb79dad78f10e27eac6"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/customize.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "8b4d8f28938b73bc0ef4f8184282e5ad844d995e6544bcf4ae0d5e2d7a2b58ec"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/defeat.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "056476188d9d5ed1d2dee14f781119982b86031cb6c174732e395f0695cce676"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/draft-comeback.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "b781c0f8c5e6610d6bacc58107ce59388f33a68ef31dc84e650eb6b4b061a4ad"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/draft.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "8220b1eaa2d69add1117443062413fc404781bbab81cbd1388c6108f6b1ae5ce"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/matchmaking.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "339f8b5c9295d3a41536c502082545b6b796c3f04d90cd861fe19b7dd68df4b3"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/pack-details.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "892cc1c9316ec9f07b9a704f3d0c93e7581e7c4951dfc022557a1d2be4c7e00a"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/pass.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "eb9a5f6f361d8f533fda389e230e289c27272f5c95cb8d5cfaed7be46ef2d957"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/profile.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "075354e66832f7d7f4c892a19afbca6d4e1ab3733a4339cb6bca5263cbfbf4f0"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/rating-rules.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "029753a24e89ea0e03263f56540f1e17a2268cfbe613c40a37eb1a5431c86aa2"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/rating.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "126898c0208a69fd309730478ec6800980522a88e928c44585c434ae87adb5b7"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/rewards.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "780a6eec6d8b5d6ca888203e4c48d0c68f188918d5b7069fb4fa66cc7e500c54"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/round-result.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "f7a696146f5328960ff78b58f9302ac562178be7a35c568f93fcd7658b5a35d4"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/settings.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "29b7989bfdc8fc6073210cf1a5ef8dbb15c3b673ca035948ba4d8a73fa6bdc92"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/shop-coins.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "1086032aacfd28c8082a55ed467eb5a59c800c2285a0b196fa81915b103601b7"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/shop-gems.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "066f599de39409e8fe1d533f92664506d839e0654e6319cff2a508ef0fdb7087"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/shop-packs.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "24642ad60ee5e0385486fc7f8e3095ae92adb549effead12914e5e6df81153ac"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/spell-locked.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "2b966661f78b12e5d7dfffc0d0a7e7c3b07c6601339312f097f9f1fced29ea2a"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/spell-stats.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "5f88e359ccf6f4a2bc280d2fc43964c12030e6ae416fc881c6fa8b0034bc2509"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/unit-locked.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "90ec458ad849b52c24e1e36434619e97f7ff62407d1423c7ce9e601dd625e808"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/unit-mastery.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "3854a19144676ab72153ac893371c7f26915222cac541a0d06706c20196d4d4f"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/unit-stats.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "ddb0651ee6902fe03e91263b3869544c8c95537e022f898202b129b332ebf3bd"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/screens/victory.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "8df46d246c32714c1dfdacf2a64eca293d822058d25e0201ee4fe28ce3b012aa"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/sprites/sheet-1.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "mode": "RGBA",
+    "alpha": {
+      "min": 0,
+      "max": 255
+    },
+    "sha256": "ff6256b52b96c90481b23a875acd7d221284935aa4b2ebe15be87a8fffbff5e6"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/sprites/sheet-2.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "mode": "RGBA",
+    "alpha": {
+      "min": 0,
+      "max": 255
+    },
+    "sha256": "b5ef75608cce395f0834f2dfd88072dc2ede9d939e403c63e526caa346ab45a8"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A1/sprites/sheet-3.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "mode": "RGBA",
+    "alpha": {
+      "min": 0,
+      "max": 255
+    },
+    "sha256": "91c4f58f9db329ad6563d747d680838ed54fdbc268d27198c42aa47dde242faa"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/arena.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "6d6b3e414967fe77fcbd65d73f50234854cbeb156aae4dd9f912936b8222a395"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/battle.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "dfe8a6f3a09a77cfb02e69e43bc305a3cf0055f0ca1d1f47d9fe0cf65763c6ec"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/collection-spells.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "aa65f686247f3a80148e870ea40361ca7945271b98cc82b49e158f8ef7bf228f"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/collection-units.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "f81a4c8ff4c3b1bc575536aeb37c56310f5107d9f7a0fe9636aa4f042f8d5a45"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/commander.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "2e857fc50434480ae523d4f1db4474dfeb3f72dfb339fd7fc40f26beb693d1f5"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/customize.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "3190c8824c8947c1b41224d1993b3f317e14e6c38edcd6fd7b88d67f2d21a576"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/defeat.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "3aa650f21fde3f884e471dfbcfe3a43194694126486bb2593d1bb404bd18c797"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/draft-comeback.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "dceef023ac13b52a1ebcdd308cb4fa6ab589e90ced46fc05ee7bb5d01cba26de"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/draft.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "56462f17e31bad2190921fec7f5947d7563ac61dea3b43b0087f310ff100159a"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/matchmaking.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "73f5d1d41606e08380988f4a6221846a2cf15d0f9341b60f23762dcbc8df654b"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/pack-details.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "0be73349007a8669e3f67c8164a3a2be575568dd5122959c4ee00c61a6399969"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/pass.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "db991055c2a7eba946809a0e176a9e33fa0a664c0d69973017e9c914f2dab33e"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/profile.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "57a3537e7fd9925c3376c63cc1ac236b27f3f4f7a2206dee7b130e658a4e35c7"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/rating-rules.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "3087c3743a711f2606bb54e3a4c8ebfeb8987b52ed695a5612c735eef8081676"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/rating.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "6b5bda4d155a8fc8f041511d153c25f4680e7307811b7ed3bd0fc282661fa585"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/rewards.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "2c72638baa71079480c90cb29accb973803878b5d747a1fc4a2792c480471e5d"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/round-result.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "17a248c565ce10644a227c12e4382241f02ec01c35afd725993bc421cac5bc22"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/settings.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "136f5086c0fe3e89af46ed6bd0efabd8afac4cf9349a4ceb4de63a9e279edca3"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/shop-coins.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "9b8b61edacd9fa5bd98c143f7a45a64d5c781a1b987f8a66c66e95874af677f6"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/shop-gems.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "80aa767172af6b1058e2acbdb47062e2a399cd599f4f68f6770eb42c5bf227f1"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/shop-packs.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "a76b229f587ebd6f938df3b49c221cc1bd608da42aa0de5952de2f7e77432dc1"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/spell-locked.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "854e67af4bec8bdd51a8b59d6ad0a7f48e20ad7a53f49c33f8360165c00011d4"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/spell-stats.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "09fc561e512824e42ea93cb4e340fd2edc2f36059f4e6a2466e8b70949b01f60"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/unit-locked.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "b66312239dcbe03fb04e7cad277eaed923ef53ac64a9cc5c7d7154ed1c0eceeb"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/unit-mastery.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "822722ecfcbcee6007b4721e9348a34c5fff91db78023e80de928d47fbfd97ab"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/unit-stats.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "714ec9d92a96e4657790d18ad5baf05be0de863532c6a23851f5db0ab8c2c334"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/screens/victory.png",
+    "dimensions": {
+      "width": 623,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "023a650912ef9e40325e1b84921cab636776725ba9cd37379a7e8621750c5666"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/sprites/sheet-1.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "mode": "RGBA",
+    "alpha": {
+      "min": 0,
+      "max": 255
+    },
+    "sha256": "e80004c651a63f3c5f3822ca8ba7a00fc3eb027b8bd29bfe8e67deab600b5e71"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/sprites/sheet-2.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "mode": "RGBA",
+    "alpha": {
+      "min": 0,
+      "max": 255
+    },
+    "sha256": "fea8e03cafb96986ddd6b459365bee4edccebd4aba032f9fe18bff5dd6d37f8b"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/A5/sprites/sheet-3.png",
+    "dimensions": {
+      "width": 1448,
+      "height": 1086
+    },
+    "mode": "RGBA",
+    "alpha": {
+      "min": 0,
+      "max": 255
+    },
+    "sha256": "ee0da1120fc3abc29934a3712e6976e14818418d78a737df34c80d5b66372f4a"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/arena.png",
+    "dimensions": {
+      "width": 1246,
+      "height": 1254
+    },
+    "mode": "RGBA",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "f9afab371c70029a3c883b25d30a4d0b217b8a2458bdb87bd8b678b29dfa832e"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/battle.png",
+    "dimensions": {
+      "width": 1246,
+      "height": 1254
+    },
+    "mode": "RGBA",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "923f3872b023d3f424fc1a1913c6a63a4764c622dbe174da5b22d1b171eef98b"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/collection-spells.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "64dd698ba3aa58944bd2f1f51f0bae4d9d5934a87342ec2e0156659aba6b7379"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/collection-units.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "a09ff59ebdd38fa3eda6fb76564aeb794a4d9ef53b6e17d80fea9e4a0197cfae"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/commander.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "e4ee5c8cdf7852fef9dd6994f0c921000790d3936534ac8a52c0269ac077537b"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/customize.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "7fd1b9817433d40d0f4b7f46bf915b56b12fe26697e0a7dd6b0433ad61f58925"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/defeat.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "6fe825c802c29dfb90d6a12036519d12e8087a8cd5fd13205fdd0a897c891dc8"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/draft-comeback.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "0673f86357a08279a05a94cd52a7ba518b774519709f8ebf60fbfc0904209a58"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/draft.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "43d65bb1f7df7932fee3b029daeadc05c6c58a10138fb218992ab9e26ea4d909"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/matchmaking.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "4f1edfd14964295e77ab8786afd78ece87b61dc3f388a363d8f616f87a582ddc"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/pack-details.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "ce4e18253e80d7366fe2d0915b5a147ca88f13da588061efb674cf1efd2f5088"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/pass.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "b40ff8c1a932b87ec487379b9e256b2d8de7c8f2d34ebb9190feecf00e1c36b4"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/profile.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "60b9ecd18f8218c6cea2a343c89c8bdab41bc10749bffccf0a346bf75f25d3ee"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/rating-rules.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "50ebee59846ca73d296bae5afc220f252ad6c98f4fac808584bdcaa6c3374ef1"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/rating.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "5911fde3a71e557bc630fc51ee6d273b9318daa10e6f3e1a93f7af16d5a63b52"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/rewards.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "e2d22485fb26cb107ef407ea453612535f299a80d3a302b303f8fd40baba2821"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/round-result.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "14e9a6448dbb87d48f3302dc705e6ca178de60aeff12d3d1edf7a3fda2afe051"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/settings.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "7de31cb82f5bdb498c263eee302148dfc08272efa110ee3946fa76e59ef11946"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/shop-coins.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "9372eca825d418a5addcaf6284e3cc2dca9dddfee27f441d61e3d925c285f3a7"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/shop-gems.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "8438a904334c12e742c4540b9bd17fc56962fd6485d066226a0a5b0041c72d43"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/shop-packs.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "9bffcaa150ff6ee405704f4de0726f5d2ed45ad68d263d023c7c38b982a3f550"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/spell-locked.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "c7ceb555f824130460189e0abbc707bd1fa190070fc3bfec33e44bb6805de83a"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/spell-stats.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "986f30947385a55c8ea8b6714f37c09909019ccc91a9bad874146d40712ce0bc"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/unit-locked.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "b5bfecb9675bd9b7a80000a09cab69795c5a1e38eee5f8968966667b4cd51005"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/unit-mastery.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "40a0d8670510b02ea3d8f86c50f5c41d036e05d16bbdc6e5cf31093c0e0dc28f"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/unit-stats.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "4660e4d9654b5f21fe368db7ddc6c80f98af8d2c8682530e230f54beb1e49e3d"
+  },
+  {
+    "path": "U:/UNITY_PROJECTS/TankDraft/Tools/Previz/Concepts/2026-09-15-A1-A5-expanded/comparisons/victory.png",
+    "dimensions": {
+      "width": 1254,
+      "height": 1254
+    },
+    "mode": "RGB",
+    "alpha": {
+      "min": 255,
+      "max": 255
+    },
+    "sha256": "97b8c913ec9b263e3184115cbf0b670d46e86613b7a4bf7368fe1819f675fbde"
+  }
+]

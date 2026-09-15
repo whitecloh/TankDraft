@@ -1,0 +1,1 @@
+{"name":"TankDraft.Battle.Editor","references":["TankDraft.Contracts","TankDraft.Content","TankDraft.Simulation","TankDraft.Battle.Content","TankDraft.Battle.Presentation","TankDraft.Battle.Bootstrap","TankDraft.Presentation","VContainer","Vareiko.Foundation.UI","Unity.ugui","Unity.TextMeshPro","Unity.InputSystem"],"includePlatforms":["Editor"],"autoReferenced":true}

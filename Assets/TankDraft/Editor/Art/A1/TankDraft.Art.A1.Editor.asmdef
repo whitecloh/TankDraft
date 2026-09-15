@@ -1,0 +1,6 @@
+{
+  "name": "TankDraft.Art.A1.Editor",
+  "references": ["TankDraft.Art.A1", "TankDraft.Battle.Presentation", "TankDraft.Battle.Content", "TankDraft.Contracts"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

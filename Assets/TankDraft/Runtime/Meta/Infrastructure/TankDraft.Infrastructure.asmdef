@@ -1,0 +1,1 @@
+{"name":"TankDraft.Infrastructure","references":["TankDraft.Contracts","Unity.Newtonsoft.Json"],"autoReferenced":true,"noEngineReferences":false}

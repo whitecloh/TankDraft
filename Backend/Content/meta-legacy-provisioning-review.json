@@ -1,0 +1,146 @@
+{
+  "TitleId": "B16D9",
+  "Mode": "PlayFabLegacyClosedQa",
+  "Apply": false,
+  "CatalogVersion": "tankdraft-qa-v1",
+  "PlayerWritePolicyVerified": false,
+  "Catalog": [
+    {
+      "ContentId": "unit.mines",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.heavy_tank",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.tank_destroyer",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.field_artillery",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.medium_tank",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.light_raider",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.repair_vehicle",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.rocket_artillery",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.drone_carrier",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.mobile_mortar",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.anti_tank_obstacle",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "unit.stealth_vehicle",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.reinforce_armor",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.repair_team",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.smoke_screen",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.artillery_strike",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.minefield",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.drone_recon",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.precision_strike",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.reinforcements",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.overdrive",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.emp",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.supply_drop",
+      "ItemType": "catalogItem"
+    },
+    {
+      "ContentId": "order.barrage",
+      "ItemType": "catalogItem"
+    }
+  ],
+  "StarterInventory": [
+    {
+      "ContentId": "unit.mines",
+      "Amount": 1
+    },
+    {
+      "ContentId": "unit.heavy_tank",
+      "Amount": 1
+    },
+    {
+      "ContentId": "unit.tank_destroyer",
+      "Amount": 1
+    },
+    {
+      "ContentId": "unit.field_artillery",
+      "Amount": 1
+    },
+    {
+      "ContentId": "unit.medium_tank",
+      "Amount": 1
+    },
+    {
+      "ContentId": "unit.light_raider",
+      "Amount": 1
+    },
+    {
+      "ContentId": "order.reinforce_armor",
+      "Amount": 1
+    },
+    {
+      "ContentId": "order.repair_team",
+      "Amount": 1
+    },
+    {
+      "ContentId": "order.smoke_screen",
+      "Amount": 1
+    }
+  ],
+  "CurrencyGrants": [],
+  "RealMoneyProducts": [],
+  "Target": "existing two QA identities only"
+}

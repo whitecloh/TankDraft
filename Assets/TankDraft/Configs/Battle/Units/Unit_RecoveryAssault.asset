@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b68924f5175597346b178c26eb54822d, type: 3}
+  m_Name: Unit_RecoveryAssault
+  m_EditorClassIdentifier: TankDraft.Battle.Content::TankDraft.BattleContent.BattleUnitAsset
+  _content: {fileID: 11400000, guid: 2b6049f9ba72b0548acc1786da8a5f1c, type: 2}
+  _attack: 3
+  _maxHp: 130
+  _damage: 25
+  _moveSpeed: 1.3
+  _radius: 0.3
+  _mass: 1.8
+  _range: 0.12
+  _cooldownSeconds: 1
+  _projectile: {fileID: 0}
+  _abilityKind: 0
+  _abilityIntervalSeconds: 0
+  _abilityRadius: 0
+  _abilityAmount: 0
+  _spawnUnit: {fileID: 0}
+  _spawnLifetimeSeconds: 0
+  _spawnDamagePercent: 0
+  _contactZone: {fileID: 0}
+  _dotTotalDamagePercent: 0
+  _dotPeriodSeconds: 1
+  _dotTickCount: 3
+  _shieldCapacityHpPercent: 0
+  _shieldIntervalSeconds: 4
+  _shieldRadius: 3
+  _shieldLifetimeSeconds: 3.5
+  _blocksFirstHit: 0
+  _magazineShots: 0
+  _magazineReloadSeconds: 3
+  _lifeStealPercent: 25
+  _formationPriority: 600

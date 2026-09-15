@@ -1,0 +1,28 @@
+{
+  "name": "TankDraft.Match.Editor",
+  "references": [
+    "TankDraft.Bootstrap",
+    "TankDraft.Infrastructure",
+    "TankDraft.Presentation",
+    "TankDraft.Contracts",
+    "TankDraft.Simulation",
+    "TankDraft.Battle.Content",
+    "TankDraft.Battle.Presentation",
+    "TankDraft.Battle.Editor",
+    "TankDraft.Match.Domain",
+    "TankDraft.Match.Bootstrap",
+    "TankDraft.Match.Content",
+    "TankDraft.Match.Presentation",
+    "VContainer",
+    "Vareiko.Foundation.UI",
+    "Unity.ugui",
+    "Unity.TextMeshPro",
+    "TankDraft.Content",
+    "TankDraft.Application"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true,
+  "noEngineReferences": false
+}

@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2878831477784859087
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1968414655803903313, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_Name
+      value: FusionGameClient
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7820944317322327674, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 1968414655803903313, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3719641866907628721}
+    - targetCorrespondingSourceObject: {fileID: 1968414655803903313, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1572092819522519706}
+  m_SourcePrefab: {fileID: 100100000, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+--- !u!1 &4369229731770997918 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1968414655803903313, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+  m_PrefabInstance: {fileID: 2878831477784859087}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3719641866907628721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4369229731770997918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0885272f38472004ba5f350f9710578d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: TankDraft.Fusion.Gameplay::TankDraft.Infrastructure.FusionGameplay.FusionGameClientFlow
+  connection: {fileID: 6068642879466556952}
+  settings: {fileID: 11400000, guid: 52b3aa2fc72ccd746a882b5768df6d96, type: 2}
+  menuScene: MainMenu
+--- !u!114 &1572092819522519706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4369229731770997918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81ccc212c2013d84590417157ba2b764, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: TankDraft.Fusion.Gameplay::FusionClientLifetimeScope
+  parentReference:
+    TypeName: 
+  autoRun: 1
+  autoInjectGameObjects: []
+--- !u!114 &6068642879466556952 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8343920455678861271, guid: 6ba4208aa7b69f14ead8bf14159b073b, type: 3}
+  m_PrefabInstance: {fileID: 2878831477784859087}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4369229731770997918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c61dc270feebbce4abf0eb3ef10d287e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: TankDraft.Fusion.Transport::TankDraft.Infrastructure.FusionTransport.FusionDedicatedBootstrap

@@ -1,0 +1,6 @@
+{
+  "name": "TankDraft.Fusion.Editor",
+  "references": ["Fusion.Unity", "Fusion.Unity.Editor", "Photon.Realtime", "TankDraft.Fusion.Transport", "TankDraft.Fusion.Gameplay", "TankDraft.Match.ServerClient", "VContainer"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

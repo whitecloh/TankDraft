@@ -1,0 +1,8 @@
+{
+  "Mode": "LocalOnly",
+  "DatabaseFolder": "Logs/BackendPersistence",
+  "MaxEntries": 50000,
+  "MaxRecordBytes": 262144,
+  "MaxDatabasePages": 16384,
+  "RecoveryTimePolicy": "PauseProcessDowntime"
+}
