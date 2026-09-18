@@ -66,6 +66,7 @@ namespace TankDraft.Editor.FusionSetup
                 subtarget = (int)StandaloneBuildSubtarget.Player, options = BuildOptions.None });
             File.WriteAllText("Logs/FusionMigration/game-client-build.txt", report.summary.result + " errors=" + report.summary.totalErrors + " bytes=" + report.summary.totalSize);
             if(report.summary.result != BuildResult.Succeeded) throw new InvalidOperationException("Client build failed");
+            File.Copy("Tools/Fusion/open-game-client.cmd", "Builds/Fusion/Client/StartGame.cmd", true);
         }
     }
 }

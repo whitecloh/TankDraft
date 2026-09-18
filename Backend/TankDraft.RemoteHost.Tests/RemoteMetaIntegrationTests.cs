@@ -67,6 +67,8 @@ public sealed partial class RemoteMetaIntegrationTests
             OrderIds = new[] { "order.reinforce_armor", "", "" }
         });
         Assert.Equal(403, notOwned.Value<int>("Status"));
+        Assert.Equal("not_owned", notOwned["Body"]!.Value<string>("Code"));
+        Assert.Null(notOwned["Body"]!["code"]);
         Assert.Equal(1, fixture.Store.Writes("acctB"));
         JObject bIdle = await b.OkAsync("Status", new { InstanceId = fixture.Service.InstanceId });
         Assert.Equal("Idle", bIdle.Value<string>("State"));
@@ -83,6 +85,8 @@ public sealed partial class RemoteMetaIntegrationTests
             OperationId = Guid.NewGuid().ToString("N"), UnitIds = swapped, OrderIds = new[] { "order.reinforce_armor", "", "" }
         });
         Assert.Equal(409, activeEdit.Value<int>("Status"));
+        Assert.Equal("match_active", activeEdit["Body"]!.Value<string>("Code"));
+        Assert.Null(activeEdit["Body"]!["code"]);
         Assert.Equal(2, fixture.Store.Writes("acctA"));
 
         var hostile = Encoding.UTF8.GetBytes(new JObject

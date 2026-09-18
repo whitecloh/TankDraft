@@ -16,6 +16,8 @@ namespace TankDraft.Match.ServerClient
         public string Close = "Закрыть";
         public string ErrorTitle = "Нет связи с сервером";
         public string ErrorBody = "Не удалось получить ответ. Повторите запрос: существующий поиск или матч сохранится на сервере.";
+        public string UnsupportedLoadoutTitle = "Отряд пока не поддерживается";
+        [TextArea] public string UnsupportedLoadoutBody = "Текущая серверная сборка поддерживает один приказ усиления брони или пустые слоты приказов. Измените состав отряда и повторите поиск.";
         public string NoServer = "Запустите локальный сервер через run-matchmaking.ps1. Для телефона оставьте USB подключённым.";
         public void Validate()
         {

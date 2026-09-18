@@ -162,6 +162,7 @@
           "TankDraft.Server.Match": "[1.0.0, )",
           "TankDraft.Server.Meta": "[1.0.0, )",
           "TankDraft.Server.PlayFab.Identity": "[1.0.0, )",
+          "TankDraft.Server.Progression": "[1.0.0, )",
           "TankDraft.Server.Security": "[1.0.0, )",
           "TankDraft.Server.Settlement": "[1.0.0, )"
         }
@@ -191,6 +192,12 @@
         "dependencies": {
           "Newtonsoft.Json": "[13.0.4, )",
           "PlayFabAllSDK": "[1.229.260805, )"
+        }
+      },
+      "tankdraft.server.progression": {
+        "type": "Project",
+        "dependencies": {
+          "Microsoft.Data.Sqlite": "[10.0.12, )"
         }
       },
       "tankdraft.server.security": {

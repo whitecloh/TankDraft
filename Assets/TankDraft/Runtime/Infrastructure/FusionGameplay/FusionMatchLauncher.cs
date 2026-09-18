@@ -66,6 +66,12 @@ namespace TankDraft.Infrastructure.FusionGameplay
             {
                 var task = pending; pending = null;
                 try { Accept(task.GetAwaiter().GetResult()); }
+                catch (FusionTransport.FusionAuthorityException error) when (operation == "Join" && error.Code == "unsupported_battle_loadout")
+                {
+                    failed = true;
+                    view.Show(new NetworkQueueViewModel(settings.UnsupportedLoadoutTitle, settings.UnsupportedLoadoutBody, settings.Close, CloseRejectedLoadout));
+                    Evidence("UnsupportedLoadout", null);
+                }
                 catch
                 {
                     failed = true;
@@ -121,6 +127,12 @@ namespace TankDraft.Infrastructure.FusionGameplay
         }
         void Cancel() { if (!loading && !disposed) { cancelRequested = true; launchRequested = false; } }
         void Retry() { if (!disposed && pending == null) Begin(operation, target); }
+        void CloseRejectedLoadout()
+        {
+            if (disposed || pending != null || loading) return;
+            failed = false; launchRequested = false; autoStarted = true;
+            view.Hide();
+        }
         void Evidence(string state, JObject value)
         {
             try { File.AppendAllText(Path.Combine(context.RunDirectory, "queue.jsonl"), new JObject { ["Operation"] = operation, ["State"] = state, ["Value"] = value, ["Utc"] = DateTime.UtcNow.ToString("O") }.ToString(Formatting.None) + Environment.NewLine); }

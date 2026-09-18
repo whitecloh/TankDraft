@@ -98,6 +98,7 @@ public sealed class ServerSupervisor(ManagerOptions options) : IAsyncDisposable
                 {
                     var statusPath = Path.Combine(runtimeDirectory, "status.json");
                     var healthy = false;
+                    var cloudReady = false;
                     try
                     {
                         var info = new FileInfo(statusPath);
@@ -105,10 +106,13 @@ public sealed class ServerSupervisor(ManagerOptions options) : IAsyncDisposable
                         {
                             using var json = JsonDocument.Parse(await File.ReadAllTextAsync(statusPath));
                             healthy = DateTime.UtcNow - info.LastWriteTimeUtc < TimeSpan.FromSeconds(5) && json.RootElement.GetProperty("Ready").GetBoolean();
+                            cloudReady = json.RootElement.TryGetProperty("CloudReady", out var cloud) && cloud.ValueKind == JsonValueKind.True;
                         }
                     }
                     catch (Exception e) when (e is IOException or JsonException or KeyNotFoundException) { healthy = false; }
-                    if (state != "Draining") state = healthy ? "Ready" : "Connecting";
+                    // Cloud rejoin can temporarily block new clients while existing matches stay healthy.
+                    // Keep the process watchdog separate: losing cloud admission must not kill an active match.
+                    if (state != "Draining") state = healthy && cloudReady ? "Ready" : "Connecting";
                     if (readinessWatchdog?.TimedOut(healthy, (double)Stopwatch.GetTimestamp() / Stopwatch.Frequency) == true)
                     { await CleanupAsync(); state = "Failed"; Log("ReadinessTimeout", "Fusion устойчиво недоступен. Сервер остановлен."); }
                 }

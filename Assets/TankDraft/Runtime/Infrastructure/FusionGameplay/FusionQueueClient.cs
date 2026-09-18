@@ -36,7 +36,7 @@ namespace TankDraft.Infrastructure.FusionGameplay
             }
             JObject response;
             try { response = await requests.Send(operation, body, token).ConfigureAwait(false); }
-            catch (FusionTransport.FusionAuthorityException error) when (error.Status == 403 && refreshAllowed)
+            catch (FusionTransport.FusionAuthorityException error) when (error.Status == 403 && string.IsNullOrEmpty(error.Code) && refreshAllowed)
             {
                 lobbyReady = false; lobbyOperation = Guid.NewGuid().ToString("N");
                 return await Send(operation, target, token, false).ConfigureAwait(false);

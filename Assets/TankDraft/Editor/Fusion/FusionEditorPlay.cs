@@ -18,6 +18,7 @@ namespace TankDraft.Editor.FusionSetup
         const string Menu = "Assets/TankDraft/Scenes/Frontend/MainMenu.unity";
         const string Key = "TankDraft.Fusion.EditorPlay.";
         static bool preparing;
+        static bool stopping;
         static readonly string[] Variables = { "TANKDRAFT_FUSION_RUNTIME_PATH", "TD_FUSION_STATE_DIRECTORY", "TD_LOCAL_AUTO", "TD_QUEUE_MODE", "TD_FUSION_AUTO_QUEUE", "TD_QUEUE_AUTO_REMAINING", "TD_FUSION_QA_COLD_PENDING", "TD_FUSION_CAPTURE_SCREENSHOTS" };
         static FusionEditorPlay() { EditorApplication.playModeStateChanged += Changed; }
         [MenuItem("TankDraft/Networking/Fusion/Play in Editor")]
@@ -31,6 +32,17 @@ namespace TankDraft.Editor.FusionSetup
         static bool ValidateToggle() { UnityEditor.Menu.SetChecked("TankDraft/Networking/Fusion/Use Fusion for MainMenu Play", EditorPrefs.GetBool(Key + "Enabled", true)); return true; }
         static void Changed(PlayModeStateChange state)
         {
+            if (state == PlayModeStateChange.ExitingPlayMode && !stopping)
+            {
+                var connections = UnityEngine.Object.FindObjectsByType<TankDraft.Infrastructure.FusionTransport.FusionDedicatedBootstrap>(FindObjectsSortMode.None);
+                if (connections.Length > 0)
+                {
+                    // Allow the normal leave operation to finish before domain/scene teardown.
+                    stopping = true;
+                    EditorApplication.isPlaying = true;
+                    StopThenExit(connections);
+                }
+            }
             if (state == PlayModeStateChange.ExitingEditMode && !SessionState.GetBool(Key + "Armed", false) && !preparing &&
                 !Application.isBatchMode && !BuildPipeline.isBuildingPlayer && EditorPrefs.GetBool(Key + "Enabled", true) &&
                 (SceneManager.GetActiveScene().path == Menu || SceneManager.GetActiveScene().path == Entry))
@@ -39,7 +51,23 @@ namespace TankDraft.Editor.FusionSetup
                 EditorApplication.update -= BeginAfterCancelledPlay;
                 EditorApplication.update += BeginAfterCancelledPlay;
             }
-            if (state == PlayModeStateChange.EnteredEditMode && SessionState.GetBool(Key + "Armed", false) && !preparing) Restore();
+            if (state == PlayModeStateChange.EnteredEditMode)
+            {
+                stopping = false;
+                if (SessionState.GetBool(Key + "Armed", false) && !preparing) Restore();
+            }
+        }
+        static async void StopThenExit(TankDraft.Infrastructure.FusionTransport.FusionDedicatedBootstrap[] connections)
+        {
+            try
+            {
+                var tasks = new List<Task>();
+                foreach (var connection in connections) tasks.Add(connection.StopAsync());
+                var shutdown = Task.WhenAll(tasks);
+                if (await Task.WhenAny(shutdown, Task.Delay(5000)) == shutdown) await shutdown;
+            }
+            catch (Exception e) { UnityEngine.Debug.LogWarning("FUSION_EDITOR_STOP_INCOMPLETE " + e.GetType().Name); }
+            finally { if (EditorApplication.isPlaying) EditorApplication.isPlaying = false; }
         }
         static void BeginAfterCancelledPlay()
         {

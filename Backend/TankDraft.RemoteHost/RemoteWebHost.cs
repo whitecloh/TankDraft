@@ -142,7 +142,7 @@ public static class RemoteWebHost
                 catch (AdmissionRejectedException error) { return Results.StatusCode(error.Code is "identity_busy" or "identity_unavailable" or "capacity" ? 503 : 403); }
                 catch (UnauthorizedAccessException) { return Results.StatusCode(403); }
                 catch (PlayFabIdentityBusyException) { return Results.StatusCode(503); }
-                catch (MetaFailureException error) { return Results.Json(new { Code = error.Code }, statusCode: error.Code is "version_conflict" or "stale_progression_sequence" or "inventory_changed" or "match_active" ? 409 : error.Code is "provider_unavailable" or "busy" or "meta_capacity" ? 503 : 403); }
+                catch (MetaFailureException error) { return Results.Json(new { Code = error.Code }, AuthoredContent.Json, statusCode: error.Code is "version_conflict" or "stale_progression_sequence" or "inventory_changed" or "match_active" ? 409 : error.Code is "provider_unavailable" or "busy" or "meta_capacity" ? 503 : 403); }
                 catch (JsonException) { return Results.StatusCode(400); }
                 catch (ArgumentException) { return Results.StatusCode(400); }
                 catch (InvalidDataException) { return Results.StatusCode(400); }

@@ -91,7 +91,7 @@ namespace TankDraft.Infrastructure.FusionTransport
                 BindClientChannel();
                 Debug.Log((server ? "FUSION_DEDICATED_READY capability=" : "FUSION_CLIENT_CONNECTED capability=") + (config.AllowPlaintextQa ? "plaintext-qa-no-economy" : "readiness-only"));
             }
-            catch { Debug.LogError("FUSION_START_FAILED: check private auth, provider configuration and connectivity."); await Quit(1); }
+            catch { if (!quitting) { Debug.LogError("FUSION_START_FAILED: check private auth, provider configuration and connectivity."); await Quit(1); } }
         }
         async Task<StartGameResult> StartRunner()
         {
@@ -162,6 +162,7 @@ namespace TankDraft.Infrastructure.FusionTransport
                         File.Delete(qaDelayPath);
                     }
                     await Task.Delay(TimeSpan.FromSeconds(delay), stop.Token);
+                    if (quitting || stop.IsCancellationRequested) return;
                     if (!runnerPrefab) throw new InvalidOperationException("Authored runner prefab missing.");
                     runner = Instantiate(runnerPrefab, transform); sceneManager = runner.GetComponent<FusionDiagnosticSceneManager>();
                     var result = await StartRunner();
@@ -220,7 +221,7 @@ namespace TankDraft.Infrastructure.FusionTransport
                         { Debug.LogError("FUSION_AUTHORITY_UNAVAILABLE sustained=true"); await Quit(1); return; }
                     }
                 }
-                var status = new GatewayStatus { Ready = ready && authorityHealthy, Players = players.Count, Replies = received, LastReplyAgeSeconds = received == 0 ? -1 : Time.realtimeSinceStartup - lastReply, Capability = config.AllowPlaintextQa ? "plaintext-qa-no-economy" : "readiness-only", ConnectionSerial = connectionSerial, ReconnectAttempts = reconnectAttempts };
+                var status = new GatewayStatus { Ready = ready && authorityHealthy, CloudReady = runner != null && runner.IsCloudReady && runner.IsInSession, Players = players.Count, Replies = received, LastReplyAgeSeconds = received == 0 ? -1 : Time.realtimeSinceStartup - lastReply, Capability = config.AllowPlaintextQa ? "plaintext-qa-no-economy" : "readiness-only", ConnectionSerial = connectionSerial, ReconnectAttempts = reconnectAttempts };
                 var temporary = config.StatusPath + ".tmp";
                 File.WriteAllText(temporary, JsonUtility.ToJson(status));
                 if (File.Exists(config.StatusPath)) File.Replace(temporary, config.StatusPath, null); else File.Move(temporary, config.StatusPath);
@@ -345,14 +346,18 @@ namespace TankDraft.Infrastructure.FusionTransport
         }
         public void OnPlayerLeft(NetworkRunner source, PlayerRef player)
         { players.Remove(player); busy.Remove(player); lastRequest.Remove(player); if (streams.TryGetValue(player, out var stream)) { stream.Active = false; stream.Epoch++; if (stream.Replica != null && source.IsRunning) source.Despawn(stream.Replica.Object); streams.Remove(player); } if (qaPeers.TryGetValue(player, out var peer)) { qaPeers.Remove(player); peer.Dispose(); } }
+        public Task StopAsync() => Quit(0);
+        void OnApplicationQuit() { _ = Quit(0); }
         async Task Quit(int code)
         {
             if (quitting) return; quitting = true; ready = false; stop.Cancel(); qaChannel?.Dispose(); SnapshotInbox.Close();
+            NetworkRunner.CloudConnectionLost -= CloudLost;
+            if (runner != null) runner.RemoveCallbacks(this);
             foreach (var peer in qaPeers.Values) peer.Dispose(); qaPeers.Clear();
             try { if (runner != null && runner.IsRunning) await runner.Shutdown(); } catch { }
             if (!Application.isEditor) Application.Quit(code);
         }
-        void OnDestroy() { NetworkRunner.CloudConnectionLost -= CloudLost; stop.Cancel(); qaChannel?.Dispose(); foreach(var peer in qaPeers.Values) peer.Dispose(); qaPeers.Clear(); authority?.Dispose(); stop.Dispose(); }
+        void OnDestroy() { quitting = true; ready = false; NetworkRunner.CloudConnectionLost -= CloudLost; if (runner != null) runner.RemoveCallbacks(this); stop.Cancel(); qaChannel?.Dispose(); foreach(var peer in qaPeers.Values) peer.Dispose(); qaPeers.Clear(); authority?.Dispose(); stop.Dispose(); }
         static T Read<T>(string path)
         {
             if (string.IsNullOrWhiteSpace(path) || !Path.IsPathRooted(path)) throw new InvalidDataException();
@@ -378,6 +383,6 @@ namespace TankDraft.Infrastructure.FusionTransport
         public void OnSceneLoadStart(NetworkRunner r) { }
         [Serializable] sealed class AuthConfig { public string UserId; public string PhotonToken; }
         [Serializable] sealed class RuntimeConfig { public string Role; public string Endpoint; public string GatewayKey; public string AuthPath; public string StatusPath; public string SessionName; public string[] AllowlistedAccounts; public int LifetimeSeconds; public bool AllowPlaintextQa; public string PresentationDirectory; }
-        [Serializable] sealed class GatewayStatus { public bool Ready; public int Players; public int Replies; public float LastReplyAgeSeconds; public string Capability; public int ConnectionSerial; public int ReconnectAttempts; }
+        [Serializable] sealed class GatewayStatus { public bool Ready; public bool CloudReady; public int Players; public int Replies; public float LastReplyAgeSeconds; public string Capability; public int ConnectionSerial; public int ReconnectAttempts; }
     }
 }

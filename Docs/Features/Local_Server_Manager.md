@@ -2,6 +2,8 @@
 Status: панель пересобрана; закрытый plaintext gameplay opt-in включён; первый полный Fusion 2PC Human матч PASS
 Last reviewed: 2026-09-15
 
+17.09 standalone entry: [Fusion_Owner_Client_Launcher.md](Fusion_Owner_Client_Launcher.md). Owner-only PC QA запускается через `Builds/Fusion/Client/StartGame.cmd` или `Tools/Fusion/open-game-client.cmd`. Прямой exe требует приватный runtime env и не является автономной точкой входа. Это не дистрибутив для внешнего тестера.
+
 15.09 исправлен cold start через open-server-manager.cmd/Windows PowerShell5.1: typed catch HttpRequestException падал с TypeNotFound, поскольку System.Net.Http ещё не загружена. Launcher теперь явно загружает встроенную сборку через Add-Type до проверки порта. Ошибка воспроизведена в свежем powershell.exe; после исправления запуск панели при свободном18878 PASS. Дополнительно выявлено наследование PSModulePath от PowerShell7 при запуске .cmd из него: Get-Acl пытался загрузить несовместимый Security module. .cmd очищает PSModulePath только в своём setlocal scope, чтобы Windows PowerShell восстановил собственные стандартные пути. Установка PowerShell7 и изменение системной execution policy не нужны. Игровой сервер автоматически не запускается — кнопка в панели сохраняется.
 
 Актуальный запуск игры из Editor: [Fusion_Editor_Play.md](Fusion_Editor_Play.md). После Ready в панели обычный Play из MainMenu готовит tester0 и входит через FusionGameClient; run-matchmaking.ps1 больше не нужен для этого пути. Старые F1/readiness ограничения ниже являются историей предыдущих этапов.
